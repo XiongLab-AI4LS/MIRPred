@@ -1,0 +1,1204 @@
+data_AF-Q6MX43-F1
+#
+_entry.id AF-Q6MX43-F1
+#
+loop_
+_atom_type.symbol
+C 
+N 
+O 
+S 
+#
+loop_
+_audit_author.name
+_audit_author.pdbx_ordinal
+"Jumper, John"               1  
+"Evans, Richard"             2  
+"Pritzel, Alexander"         3  
+"Green, Tim"                 4  
+"Figurnov, Michael"          5  
+"Ronneberger, Olaf"          6  
+"Tunyasuvunakool, Kathryn"   7  
+"Bates, Russ"                8  
+"Zidek, Augustin"            9  
+"Potapenko, Anna"            10 
+"Bridgland, Alex"            11 
+"Meyer, Clemens"             12 
+"Kohl, Simon A. A."          13 
+"Ballard, Andrew J."         14 
+"Cowie, Andrew"              15 
+"Romera-Paredes, Bernardino" 16 
+"Nikolov, Stanislav"         17 
+"Jain, Rishub"               18 
+"Adler, Jonas"               19 
+"Back, Trevor"               20 
+"Petersen, Stig"             21 
+"Reiman, David"              22 
+"Clancy, Ellen"              23 
+"Zielinski, Michal"          24 
+"Steinegger, Martin"         25 
+"Pacholska, Michalina"       26 
+"Berghammer, Tamas"          27 
+"Silver, David"              28 
+"Vinyals, Oriol"             29 
+"Senior, Andrew W."          30 
+"Kavukcuoglu, Koray"         31 
+"Kohli, Pushmeet"            32 
+"Hassabis, Demis"            33 
+#
+_audit_conform.dict_location https://raw.githubusercontent.com/ihmwg/ModelCIF/master/dist/mmcif_ma.dic
+_audit_conform.dict_name     mmcif_ma.dic
+_audit_conform.dict_version  1.3.9
+#
+loop_
+_chem_comp.formula
+_chem_comp.formula_weight
+_chem_comp.id
+_chem_comp.mon_nstd_flag
+_chem_comp.name
+_chem_comp.pdbx_synonyms
+_chem_comp.type
+"C3 H7 N O2"    89.093  ALA y ALANINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N4 O2"  175.209 ARG y ARGININE        ? "L-PEPTIDE LINKING" 
+"C4 H7 N O4"    133.103 ASP y "ASPARTIC ACID" ? "L-PEPTIDE LINKING" 
+"C5 H10 N2 O3"  146.144 GLN y GLUTAMINE       ? "L-PEPTIDE LINKING" 
+"C5 H9 N O4"    147.129 GLU y "GLUTAMIC ACID" ? "L-PEPTIDE LINKING" 
+"C2 H5 N O2"    75.067  GLY y GLYCINE         ? "PEPTIDE LINKING"   
+"C6 H13 N O2"   131.173 ILE y ISOLEUCINE      ? "L-PEPTIDE LINKING" 
+"C6 H13 N O2"   131.173 LEU y LEUCINE         ? "L-PEPTIDE LINKING" 
+"C6 H15 N2 O2"  147.195 LYS y LYSINE          ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2 S" 149.211 MET y METHIONINE      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O2"   165.189 PHE y PHENYLALANINE   ? "L-PEPTIDE LINKING" 
+"C5 H9 N O2"    115.130 PRO y PROLINE         ? "L-PEPTIDE LINKING" 
+"C3 H7 N O3"    105.093 SER y SERINE          ? "L-PEPTIDE LINKING" 
+"C4 H9 N O3"    119.119 THR y THREONINE       ? "L-PEPTIDE LINKING" 
+"C11 H12 N2 O2" 204.225 TRP y TRYPTOPHAN      ? "L-PEPTIDE LINKING" 
+"C9 H11 N O3"   181.189 TYR y TYROSINE        ? "L-PEPTIDE LINKING" 
+"C5 H11 N O2"   117.146 VAL y VALINE          ? "L-PEPTIDE LINKING" 
+#
+_citation.book_publisher          ?
+_citation.country                 UK
+_citation.id                      primary
+_citation.journal_full            Nature
+_citation.journal_id_ASTM         NATUAS
+_citation.journal_id_CSD          0006
+_citation.journal_id_ISSN         0028-0836
+_citation.journal_volume          596
+_citation.page_first              583
+_citation.page_last               589
+_citation.pdbx_database_id_DOI    10.1038/s41586-021-03819-2
+_citation.pdbx_database_id_PubMed 34265844
+_citation.title                   "Highly accurate protein structure prediction with AlphaFold"
+_citation.year                    2021
+#
+loop_
+_citation_author.citation_id
+_citation_author.name
+_citation_author.ordinal
+primary "Jumper, John"               1  
+primary "Evans, Richard"             2  
+primary "Pritzel, Alexander"         3  
+primary "Green, Tim"                 4  
+primary "Figurnov, Michael"          5  
+primary "Ronneberger, Olaf"          6  
+primary "Tunyasuvunakool, Kathryn"   7  
+primary "Bates, Russ"                8  
+primary "Zidek, Augustin"            9  
+primary "Potapenko, Anna"            10 
+primary "Bridgland, Alex"            11 
+primary "Meyer, Clemens"             12 
+primary "Kohl, Simon A. A."          13 
+primary "Ballard, Andrew J."         14 
+primary "Cowie, Andrew"              15 
+primary "Romera-Paredes, Bernardino" 16 
+primary "Nikolov, Stanislav"         17 
+primary "Jain, Rishub"               18 
+primary "Adler, Jonas"               19 
+primary "Back, Trevor"               20 
+primary "Petersen, Stig"             21 
+primary "Reiman, David"              22 
+primary "Clancy, Ellen"              23 
+primary "Zielinski, Michal"          24 
+primary "Steinegger, Martin"         25 
+primary "Pacholska, Michalina"       26 
+primary "Berghammer, Tamas"          27 
+primary "Silver, David"              28 
+primary "Vinyals, Oriol"             29 
+primary "Senior, Andrew W."          30 
+primary "Kavukcuoglu, Koray"         31 
+primary "Kohli, Pushmeet"            32 
+primary "Hassabis, Demis"            33 
+#
+_database_2.database_code AF-Q6MX43-F1
+_database_2.database_id   AlphaFoldDB
+#
+_entity.details                  ?
+_entity.formula_weight           ?
+_entity.id                       1
+_entity.pdbx_description         "Calcium dodecin"
+_entity.pdbx_ec                  ?
+_entity.pdbx_fragment            ?
+_entity.pdbx_mutation            ?
+_entity.pdbx_number_of_molecules 1
+_entity.src_method               man
+_entity.type                     polymer
+#
+_entity_poly.entity_id                    1
+_entity_poly.nstd_linkage                 no
+_entity_poly.nstd_monomer                 no
+_entity_poly.pdbx_seq_one_letter_code     MSVYKVIDIIGTSPTSWEQAAAEAVQRARDSVDDIRVARVIEQDMAVDSAGKITYRIKLEVSFKMRPAQPR
+_entity_poly.pdbx_seq_one_letter_code_can MSVYKVIDIIGTSPTSWEQAAAEAVQRARDSVDDIRVARVIEQDMAVDSAGKITYRIKLEVSFKMRPAQPR
+_entity_poly.pdbx_strand_id               A
+_entity_poly.type                         polypeptide(L)
+#
+loop_
+_entity_poly_seq.entity_id
+_entity_poly_seq.hetero
+_entity_poly_seq.mon_id
+_entity_poly_seq.num
+1 n MET 1  
+1 n SER 2  
+1 n VAL 3  
+1 n TYR 4  
+1 n LYS 5  
+1 n VAL 6  
+1 n ILE 7  
+1 n ASP 8  
+1 n ILE 9  
+1 n ILE 10 
+1 n GLY 11 
+1 n THR 12 
+1 n SER 13 
+1 n PRO 14 
+1 n THR 15 
+1 n SER 16 
+1 n TRP 17 
+1 n GLU 18 
+1 n GLN 19 
+1 n ALA 20 
+1 n ALA 21 
+1 n ALA 22 
+1 n GLU 23 
+1 n ALA 24 
+1 n VAL 25 
+1 n GLN 26 
+1 n ARG 27 
+1 n ALA 28 
+1 n ARG 29 
+1 n ASP 30 
+1 n SER 31 
+1 n VAL 32 
+1 n ASP 33 
+1 n ASP 34 
+1 n ILE 35 
+1 n ARG 36 
+1 n VAL 37 
+1 n ALA 38 
+1 n ARG 39 
+1 n VAL 40 
+1 n ILE 41 
+1 n GLU 42 
+1 n GLN 43 
+1 n ASP 44 
+1 n MET 45 
+1 n ALA 46 
+1 n VAL 47 
+1 n ASP 48 
+1 n SER 49 
+1 n ALA 50 
+1 n GLY 51 
+1 n LYS 52 
+1 n ILE 53 
+1 n THR 54 
+1 n TYR 55 
+1 n ARG 56 
+1 n ILE 57 
+1 n LYS 58 
+1 n LEU 59 
+1 n GLU 60 
+1 n VAL 61 
+1 n SER 62 
+1 n PHE 63 
+1 n LYS 64 
+1 n MET 65 
+1 n ARG 66 
+1 n PRO 67 
+1 n ALA 68 
+1 n GLN 69 
+1 n PRO 70 
+1 n ARG 71 
+#
+loop_
+_ma_data.content_type
+_ma_data.id
+_ma_data.name
+"model coordinates" 1 Model             
+"input structure"   2 "Input structure" 
+#
+_ma_model_list.data_id          1
+_ma_model_list.model_group_id   1
+_ma_model_list.model_group_name "AlphaFold Monomer v2.0 model"
+_ma_model_list.model_id         1
+_ma_model_list.model_name       "Top ranked model"
+_ma_model_list.model_type       "Ab initio model"
+_ma_model_list.ordinal_id       1
+#
+loop_
+_ma_protocol_step.method_type
+_ma_protocol_step.ordinal_id
+_ma_protocol_step.protocol_id
+_ma_protocol_step.step_id
+"coevolution MSA" 1 1 1 
+"template search" 2 1 2 
+modeling          3 1 3 
+#
+loop_
+_ma_qa_metric.id
+_ma_qa_metric.mode
+_ma_qa_metric.name
+_ma_qa_metric.software_group_id
+_ma_qa_metric.type
+1 global pLDDT 1 pLDDT 
+2 local  pLDDT 1 pLDDT 
+#
+_ma_qa_metric_global.metric_id    1
+_ma_qa_metric_global.metric_value 93.20
+_ma_qa_metric_global.model_id     1
+_ma_qa_metric_global.ordinal_id   1
+#
+loop_
+_ma_qa_metric_local.label_asym_id
+_ma_qa_metric_local.label_comp_id
+_ma_qa_metric_local.label_seq_id
+_ma_qa_metric_local.metric_id
+_ma_qa_metric_local.metric_value
+_ma_qa_metric_local.model_id
+_ma_qa_metric_local.ordinal_id
+A MET 1  2 80.19 1 1  
+A SER 2  2 82.00 1 2  
+A VAL 3  2 88.19 1 3  
+A TYR 4  2 90.19 1 4  
+A LYS 5  2 92.25 1 5  
+A VAL 6  2 94.44 1 6  
+A ILE 7  2 95.06 1 7  
+A ASP 8  2 97.44 1 8  
+A ILE 9  2 97.00 1 9  
+A ILE 10 2 98.12 1 10 
+A GLY 11 2 98.06 1 11 
+A THR 12 2 98.44 1 12 
+A SER 13 2 98.12 1 13 
+A PRO 14 2 97.62 1 14 
+A THR 15 2 97.75 1 15 
+A SER 16 2 98.50 1 16 
+A TRP 17 2 98.56 1 17 
+A GLU 18 2 98.31 1 18 
+A GLN 19 2 98.38 1 19 
+A ALA 20 2 98.50 1 20 
+A ALA 21 2 98.38 1 21 
+A ALA 22 2 97.69 1 22 
+A GLU 23 2 97.00 1 23 
+A ALA 24 2 97.56 1 24 
+A VAL 25 2 96.88 1 25 
+A GLN 26 2 95.75 1 26 
+A ARG 27 2 95.81 1 27 
+A ALA 28 2 94.69 1 28 
+A ARG 29 2 93.31 1 29 
+A ASP 30 2 92.56 1 30 
+A SER 31 2 89.31 1 31 
+A VAL 32 2 89.62 1 32 
+A ASP 33 2 87.56 1 33 
+A ASP 34 2 90.56 1 34 
+A ILE 35 2 92.06 1 35 
+A ARG 36 2 90.75 1 36 
+A VAL 37 2 92.88 1 37 
+A ALA 38 2 96.62 1 38 
+A ARG 39 2 97.75 1 39 
+A VAL 40 2 98.38 1 40 
+A ILE 41 2 98.25 1 41 
+A GLU 42 2 98.38 1 42 
+A GLN 43 2 98.69 1 43 
+A ASP 44 2 98.50 1 44 
+A MET 45 2 98.38 1 45 
+A ALA 46 2 97.94 1 46 
+A VAL 47 2 98.00 1 47 
+A ASP 48 2 96.25 1 48 
+A SER 49 2 97.31 1 49 
+A ALA 50 2 97.38 1 50 
+A GLY 51 2 96.38 1 51 
+A LYS 52 2 97.44 1 52 
+A ILE 53 2 98.06 1 53 
+A THR 54 2 98.56 1 54 
+A TYR 55 2 98.75 1 55 
+A ARG 56 2 98.62 1 56 
+A ILE 57 2 98.69 1 57 
+A LYS 58 2 98.56 1 58 
+A LEU 59 2 98.50 1 59 
+A GLU 60 2 98.00 1 60 
+A VAL 61 2 96.31 1 61 
+A SER 62 2 94.62 1 62 
+A PHE 63 2 93.69 1 63 
+A LYS 64 2 90.62 1 64 
+A MET 65 2 86.62 1 65 
+A ARG 66 2 81.31 1 66 
+A PRO 67 2 75.75 1 67 
+A ALA 68 2 70.12 1 68 
+A GLN 69 2 65.62 1 69 
+A PRO 70 2 61.59 1 70 
+A ARG 71 2 58.38 1 71 
+#
+_ma_software_group.group_id    1
+_ma_software_group.ordinal_id  1
+_ma_software_group.software_id 1
+#
+_ma_target_entity.data_id   1
+_ma_target_entity.entity_id 1
+_ma_target_entity.origin    "reference database"
+#
+_ma_target_entity_instance.asym_id   A
+_ma_target_entity_instance.details   .
+_ma_target_entity_instance.entity_id 1
+#
+_ma_target_ref_db_details.db_accession                 Q6MX43
+_ma_target_ref_db_details.db_code                      DODEC_MYCTU
+_ma_target_ref_db_details.db_name                      UNP
+_ma_target_ref_db_details.gene_name                    secE2
+_ma_target_ref_db_details.ncbi_taxonomy_id             83332
+_ma_target_ref_db_details.organism_scientific          "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+_ma_target_ref_db_details.seq_db_align_begin           1
+_ma_target_ref_db_details.seq_db_align_end             71
+_ma_target_ref_db_details.seq_db_isoform               ?
+_ma_target_ref_db_details.seq_db_sequence_checksum     49526FDBCA9C3826
+_ma_target_ref_db_details.seq_db_sequence_version_date 2004-07-05
+_ma_target_ref_db_details.target_entity_id             1
+#
+loop_
+_ma_template_details.ordinal_id
+_ma_template_details.target_asym_id
+_ma_template_details.template_auth_asym_id
+_ma_template_details.template_data_id
+_ma_template_details.template_entity_type
+_ma_template_details.template_id
+_ma_template_details.template_model_num
+_ma_template_details.template_origin
+_ma_template_details.template_trans_matrix_id
+1 A H 2 polymer 1 1 "reference database" 1 
+2 A K 2 polymer 2 1 "reference database" 1 
+3 A D 2 polymer 3 1 "reference database" 1 
+4 A A 2 polymer 4 1 "reference database" 1 
+#
+loop_
+_ma_template_ref_db_details.db_accession_code
+_ma_template_ref_db_details.db_name
+_ma_template_ref_db_details.template_id
+3ONR PDB 1 
+3ONR PDB 2 
+6R1E PDB 3 
+6RI3 PDB 4 
+#
+_ma_template_trans_matrix.id               1
+_ma_template_trans_matrix.rot_matrix[1][1] 1.0
+_ma_template_trans_matrix.rot_matrix[1][2] 0.0
+_ma_template_trans_matrix.rot_matrix[1][3] 0.0
+_ma_template_trans_matrix.rot_matrix[2][1] 0.0
+_ma_template_trans_matrix.rot_matrix[2][2] 1.0
+_ma_template_trans_matrix.rot_matrix[2][3] 0.0
+_ma_template_trans_matrix.rot_matrix[3][1] 0.0
+_ma_template_trans_matrix.rot_matrix[3][2] 0.0
+_ma_template_trans_matrix.rot_matrix[3][3] 1.0
+_ma_template_trans_matrix.tr_vector[1]     0.0
+_ma_template_trans_matrix.tr_vector[2]     0.0
+_ma_template_trans_matrix.tr_vector[3]     0.0
+#
+loop_
+_pdbx_audit_revision_details.data_content_type
+_pdbx_audit_revision_details.description
+_pdbx_audit_revision_details.ordinal
+_pdbx_audit_revision_details.provider
+_pdbx_audit_revision_details.revision_ordinal
+_pdbx_audit_revision_details.type
+"Structure model" ?                                                       1 repository 1 "Initial release" 
+"Structure model" "Format fixes, new metadata, initial SwissProt release" 2 repository 2 Remediation       
+"Structure model" "Format fixes, new metadata, initial UniProt release"   3 repository 3 Remediation       
+"Structure model" "Improved prediction accuracy, small format fixes"      4 repository 4 Remediation       
+"Structure model" "Update to UniProt 2024_06, small format fixes"         5 repository 5 Release           
+"Structure model" "Update to UniProt 2025_03"                             6 repository 6 Release           
+#
+loop_
+_pdbx_audit_revision_history.data_content_type
+_pdbx_audit_revision_history.major_revision
+_pdbx_audit_revision_history.minor_revision
+_pdbx_audit_revision_history.ordinal
+_pdbx_audit_revision_history.revision_date
+"Structure model" 1 0 1 2021-07-01 
+"Structure model" 2 0 2 2021-12-09 
+"Structure model" 3 0 3 2022-06-01 
+"Structure model" 4 0 4 2022-09-30 
+"Structure model" 5 0 5 2025-03-31 
+"Structure model" 6 0 6 2025-08-01 
+#
+loop_
+_pdbx_data_usage.details
+_pdbx_data_usage.id
+_pdbx_data_usage.name
+_pdbx_data_usage.type
+_pdbx_data_usage.url
+"Data in this file is available under a CC-BY-4.0 license." 1 CC-BY-4.0 license    https://creativecommons.org/licenses/by/4.0/ 
+;ALPHAFOLD DATA, COPYRIGHT (2021) DEEPMIND TECHNOLOGIES LIMITED. THE INFORMATION
+PROVIDED IS THEORETICAL MODELLING ONLY AND CAUTION SHOULD BE EXERCISED IN ITS
+USE. IT IS PROVIDED "AS-IS" WITHOUT ANY WARRANTY OF ANY KIND, WHETHER EXPRESSED
+OR IMPLIED. NO WARRANTY IS GIVEN THAT USE OF THE INFORMATION SHALL NOT INFRINGE
+THE RIGHTS OF ANY THIRD PARTY. DISCLAIMER: THE INFORMATION IS NOT INTENDED TO BE
+A SUBSTITUTE FOR PROFESSIONAL MEDICAL ADVICE, DIAGNOSIS, OR TREATMENT, AND DOES
+NOT CONSTITUTE MEDICAL OR OTHER PROFESSIONAL ADVICE. IT IS AVAILABLE FOR
+ACADEMIC AND COMMERCIAL PURPOSES, UNDER CC-BY 4.0 LICENCE.
+;
+2 ?         disclaimer ?                                            
+#
+_pdbx_database_status.entry_id                      AF-Q6MX43-F1
+_pdbx_database_status.recvd_initial_deposition_date 2025-08-01
+_pdbx_database_status.status_code                   REL
+#
+loop_
+_pdbx_poly_seq_scheme.asym_id
+_pdbx_poly_seq_scheme.auth_seq_num
+_pdbx_poly_seq_scheme.entity_id
+_pdbx_poly_seq_scheme.hetero
+_pdbx_poly_seq_scheme.mon_id
+_pdbx_poly_seq_scheme.pdb_ins_code
+_pdbx_poly_seq_scheme.pdb_mon_id
+_pdbx_poly_seq_scheme.pdb_seq_num
+_pdbx_poly_seq_scheme.pdb_strand_id
+_pdbx_poly_seq_scheme.seq_id
+A 1  1 n MET . MET 1  A 1  
+A 2  1 n SER . SER 2  A 2  
+A 3  1 n VAL . VAL 3  A 3  
+A 4  1 n TYR . TYR 4  A 4  
+A 5  1 n LYS . LYS 5  A 5  
+A 6  1 n VAL . VAL 6  A 6  
+A 7  1 n ILE . ILE 7  A 7  
+A 8  1 n ASP . ASP 8  A 8  
+A 9  1 n ILE . ILE 9  A 9  
+A 10 1 n ILE . ILE 10 A 10 
+A 11 1 n GLY . GLY 11 A 11 
+A 12 1 n THR . THR 12 A 12 
+A 13 1 n SER . SER 13 A 13 
+A 14 1 n PRO . PRO 14 A 14 
+A 15 1 n THR . THR 15 A 15 
+A 16 1 n SER . SER 16 A 16 
+A 17 1 n TRP . TRP 17 A 17 
+A 18 1 n GLU . GLU 18 A 18 
+A 19 1 n GLN . GLN 19 A 19 
+A 20 1 n ALA . ALA 20 A 20 
+A 21 1 n ALA . ALA 21 A 21 
+A 22 1 n ALA . ALA 22 A 22 
+A 23 1 n GLU . GLU 23 A 23 
+A 24 1 n ALA . ALA 24 A 24 
+A 25 1 n VAL . VAL 25 A 25 
+A 26 1 n GLN . GLN 26 A 26 
+A 27 1 n ARG . ARG 27 A 27 
+A 28 1 n ALA . ALA 28 A 28 
+A 29 1 n ARG . ARG 29 A 29 
+A 30 1 n ASP . ASP 30 A 30 
+A 31 1 n SER . SER 31 A 31 
+A 32 1 n VAL . VAL 32 A 32 
+A 33 1 n ASP . ASP 33 A 33 
+A 34 1 n ASP . ASP 34 A 34 
+A 35 1 n ILE . ILE 35 A 35 
+A 36 1 n ARG . ARG 36 A 36 
+A 37 1 n VAL . VAL 37 A 37 
+A 38 1 n ALA . ALA 38 A 38 
+A 39 1 n ARG . ARG 39 A 39 
+A 40 1 n VAL . VAL 40 A 40 
+A 41 1 n ILE . ILE 41 A 41 
+A 42 1 n GLU . GLU 42 A 42 
+A 43 1 n GLN . GLN 43 A 43 
+A 44 1 n ASP . ASP 44 A 44 
+A 45 1 n MET . MET 45 A 45 
+A 46 1 n ALA . ALA 46 A 46 
+A 47 1 n VAL . VAL 47 A 47 
+A 48 1 n ASP . ASP 48 A 48 
+A 49 1 n SER . SER 49 A 49 
+A 50 1 n ALA . ALA 50 A 50 
+A 51 1 n GLY . GLY 51 A 51 
+A 52 1 n LYS . LYS 52 A 52 
+A 53 1 n ILE . ILE 53 A 53 
+A 54 1 n THR . THR 54 A 54 
+A 55 1 n TYR . TYR 55 A 55 
+A 56 1 n ARG . ARG 56 A 56 
+A 57 1 n ILE . ILE 57 A 57 
+A 58 1 n LYS . LYS 58 A 58 
+A 59 1 n LEU . LEU 59 A 59 
+A 60 1 n GLU . GLU 60 A 60 
+A 61 1 n VAL . VAL 61 A 61 
+A 62 1 n SER . SER 62 A 62 
+A 63 1 n PHE . PHE 63 A 63 
+A 64 1 n LYS . LYS 64 A 64 
+A 65 1 n MET . MET 65 A 65 
+A 66 1 n ARG . ARG 66 A 66 
+A 67 1 n PRO . PRO 67 A 67 
+A 68 1 n ALA . ALA 68 A 68 
+A 69 1 n GLN . GLN 69 A 69 
+A 70 1 n PRO . PRO 70 A 70 
+A 71 1 n ARG . ARG 71 A 71 
+#
+loop_
+_software.classification
+_software.date
+_software.description
+_software.name
+_software.pdbx_ordinal
+_software.type
+_software.version
+other ? "Structure prediction" AlphaFold 1 package v2.0 
+other ? "Secondary structure"  dssp      2 library 4    
+#
+_struct_asym.entity_id 1
+_struct_asym.id        A
+#
+loop_
+_struct_conf.beg_auth_asym_id
+_struct_conf.beg_auth_comp_id
+_struct_conf.beg_auth_seq_id
+_struct_conf.beg_label_asym_id
+_struct_conf.beg_label_comp_id
+_struct_conf.beg_label_seq_id
+_struct_conf.conf_type_id
+_struct_conf.end_auth_asym_id
+_struct_conf.end_auth_comp_id
+_struct_conf.end_auth_seq_id
+_struct_conf.end_label_asym_id
+_struct_conf.end_label_comp_id
+_struct_conf.end_label_seq_id
+_struct_conf.id
+_struct_conf.pdbx_beg_PDB_ins_code
+_struct_conf.pdbx_end_PDB_ins_code
+A TYR 4  A TYR 4  STRN         A SER 13 A SER 13 STRN1         ? ? 
+A PRO 14 A PRO 14 BEND         A THR 15 A THR 15 BEND1         ? ? 
+A TRP 17 A TRP 17 HELX_RH_AL_P A ARG 29 A ARG 29 HELX_RH_AL_P1 ? ? 
+A ASP 30 A ASP 30 TURN_TY1_P   A SER 31 A SER 31 TURN_TY1_P1   ? ? 
+A ASP 33 A ASP 33 BEND         A ASP 33 A ASP 33 BEND2         ? ? 
+A ALA 38 A ALA 38 STRN         A VAL 47 A VAL 47 STRN2         ? ? 
+A SER 49 A SER 49 TURN_TY1_P   A ALA 50 A ALA 50 TURN_TY1_P2   ? ? 
+A ILE 53 A ILE 53 STRN         A LYS 64 A LYS 64 STRN3         ? ? 
+A MET 65 A MET 65 HELX_LH_PP_P A PRO 70 A PRO 70 HELX_LH_PP_P1 ? ? 
+#
+loop_
+_struct_conf_type.criteria
+_struct_conf_type.id
+DSSP STRN         
+DSSP BEND         
+DSSP HELX_RH_AL_P 
+DSSP TURN_TY1_P   
+DSSP HELX_LH_PP_P 
+#
+_struct_ref.db_code                  DODEC_MYCTU
+_struct_ref.db_name                  UNP
+_struct_ref.entity_id                1
+_struct_ref.id                       1
+_struct_ref.pdbx_align_begin         1
+_struct_ref.pdbx_align_end           71
+_struct_ref.pdbx_db_accession        Q6MX43
+_struct_ref.pdbx_db_isoform          ?
+_struct_ref.pdbx_seq_one_letter_code MSVYKVIDIIGTSPTSWEQAAAEAVQRARDSVDDIRVARVIEQDMAVDSAGKITYRIKLEVSFKMRPAQPR
+#
+_struct_ref_seq.align_id                    1
+_struct_ref_seq.db_align_beg                1
+_struct_ref_seq.db_align_end                71
+_struct_ref_seq.pdbx_PDB_id_code            AF-Q6MX43-F1
+_struct_ref_seq.pdbx_auth_seq_align_beg     1
+_struct_ref_seq.pdbx_auth_seq_align_end     71
+_struct_ref_seq.pdbx_db_accession           Q6MX43
+_struct_ref_seq.pdbx_db_align_beg_ins_code  ?
+_struct_ref_seq.pdbx_db_align_end_ins_code  ?
+_struct_ref_seq.pdbx_seq_align_beg_ins_code ?
+_struct_ref_seq.pdbx_seq_align_end_ins_code ?
+_struct_ref_seq.pdbx_strand_id              A
+_struct_ref_seq.ref_id                      1
+_struct_ref_seq.seq_align_beg               1
+_struct_ref_seq.seq_align_end               71
+#
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_entity_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.B_iso_or_equiv
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_comp_id
+_atom_site.auth_asym_id
+_atom_site.auth_atom_id
+_atom_site.pdbx_PDB_model_num
+_atom_site.pdbx_sifts_xref_db_acc
+_atom_site.pdbx_sifts_xref_db_name
+_atom_site.pdbx_sifts_xref_db_num
+_atom_site.pdbx_sifts_xref_db_res
+ATOM 1   N N   . MET A 1 1  ? 23.255  6.355   -15.476 1.00 80.19 ? 1  MET A N   1 Q6MX43 UNP 1  M 
+ATOM 2   C CA  . MET A 1 1  ? 22.635  6.838   -14.224 1.00 80.19 ? 1  MET A CA  1 Q6MX43 UNP 1  M 
+ATOM 3   C C   . MET A 1 1  ? 21.194  6.354   -14.212 1.00 80.19 ? 1  MET A C   1 Q6MX43 UNP 1  M 
+ATOM 4   C CB  . MET A 1 1  ? 22.721  8.372   -14.156 1.00 80.19 ? 1  MET A CB  1 Q6MX43 UNP 1  M 
+ATOM 5   O O   . MET A 1 1  ? 20.508  6.577   -15.200 1.00 80.19 ? 1  MET A O   1 Q6MX43 UNP 1  M 
+ATOM 6   C CG  . MET A 1 1  ? 22.218  8.964   -12.835 1.00 80.19 ? 1  MET A CG  1 Q6MX43 UNP 1  M 
+ATOM 7   S SD  . MET A 1 1  ? 22.206  10.777  -12.823 1.00 80.19 ? 1  MET A SD  1 Q6MX43 UNP 1  M 
+ATOM 8   C CE  . MET A 1 1  ? 23.977  11.170  -12.742 1.00 80.19 ? 1  MET A CE  1 Q6MX43 UNP 1  M 
+ATOM 9   N N   . SER A 1 2  ? 20.762  5.648   -13.168 1.00 82.00 ? 2  SER A N   1 Q6MX43 UNP 2  S 
+ATOM 10  C CA  . SER A 1 2  ? 19.363  5.223   -13.024 1.00 82.00 ? 2  SER A CA  1 Q6MX43 UNP 2  S 
+ATOM 11  C C   . SER A 1 2  ? 18.691  6.125   -12.001 1.00 82.00 ? 2  SER A C   1 Q6MX43 UNP 2  S 
+ATOM 12  C CB  . SER A 1 2  ? 19.262  3.757   -12.589 1.00 82.00 ? 2  SER A CB  1 Q6MX43 UNP 2  S 
+ATOM 13  O O   . SER A 1 2  ? 19.198  6.256   -10.891 1.00 82.00 ? 2  SER A O   1 Q6MX43 UNP 2  S 
+ATOM 14  O OG  . SER A 1 2  ? 19.790  2.913   -13.596 1.00 82.00 ? 2  SER A OG  1 Q6MX43 UNP 2  S 
+ATOM 15  N N   . VAL A 1 3  ? 17.579  6.749   -12.380 1.00 88.19 ? 3  VAL A N   1 Q6MX43 UNP 3  V 
+ATOM 16  C CA  . VAL A 1 3  ? 16.768  7.569   -11.477 1.00 88.19 ? 3  VAL A CA  1 Q6MX43 UNP 3  V 
+ATOM 17  C C   . VAL A 1 3  ? 15.550  6.756   -11.066 1.00 88.19 ? 3  VAL A C   1 Q6MX43 UNP 3  V 
+ATOM 18  C CB  . VAL A 1 3  ? 16.374  8.917   -12.110 1.00 88.19 ? 3  VAL A CB  1 Q6MX43 UNP 3  V 
+ATOM 19  O O   . VAL A 1 3  ? 14.849  6.197   -11.913 1.00 88.19 ? 3  VAL A O   1 Q6MX43 UNP 3  V 
+ATOM 20  C CG1 . VAL A 1 3  ? 15.590  9.785   -11.119 1.00 88.19 ? 3  VAL A CG1 1 Q6MX43 UNP 3  V 
+ATOM 21  C CG2 . VAL A 1 3  ? 17.621  9.702   -12.543 1.00 88.19 ? 3  VAL A CG2 1 Q6MX43 UNP 3  V 
+ATOM 22  N N   . TYR A 1 4  ? 15.314  6.690   -9.763  1.00 90.19 ? 4  TYR A N   1 Q6MX43 UNP 4  Y 
+ATOM 23  C CA  . TYR A 1 4  ? 14.151  6.038   -9.182  1.00 90.19 ? 4  TYR A CA  1 Q6MX43 UNP 4  Y 
+ATOM 24  C C   . TYR A 1 4  ? 13.226  7.099   -8.611  1.00 90.19 ? 4  TYR A C   1 Q6MX43 UNP 4  Y 
+ATOM 25  C CB  . TYR A 1 4  ? 14.574  5.009   -8.130  1.00 90.19 ? 4  TYR A CB  1 Q6MX43 UNP 4  Y 
+ATOM 26  O O   . TYR A 1 4  ? 13.679  8.094   -8.045  1.00 90.19 ? 4  TYR A O   1 Q6MX43 UNP 4  Y 
+ATOM 27  C CG  . TYR A 1 4  ? 15.252  3.795   -8.734  1.00 90.19 ? 4  TYR A CG  1 Q6MX43 UNP 4  Y 
+ATOM 28  C CD1 . TYR A 1 4  ? 14.519  2.610   -8.937  1.00 90.19 ? 4  TYR A CD1 1 Q6MX43 UNP 4  Y 
+ATOM 29  C CD2 . TYR A 1 4  ? 16.610  3.852   -9.101  1.00 90.19 ? 4  TYR A CD2 1 Q6MX43 UNP 4  Y 
+ATOM 30  C CE1 . TYR A 1 4  ? 15.130  1.492   -9.534  1.00 90.19 ? 4  TYR A CE1 1 Q6MX43 UNP 4  Y 
+ATOM 31  C CE2 . TYR A 1 4  ? 17.236  2.726   -9.664  1.00 90.19 ? 4  TYR A CE2 1 Q6MX43 UNP 4  Y 
+ATOM 32  O OH  . TYR A 1 4  ? 17.104  0.456   -10.415 1.00 90.19 ? 4  TYR A OH  1 Q6MX43 UNP 4  Y 
+ATOM 33  C CZ  . TYR A 1 4  ? 16.492  1.546   -9.887  1.00 90.19 ? 4  TYR A CZ  1 Q6MX43 UNP 4  Y 
+ATOM 34  N N   . LYS A 1 5  ? 11.926  6.874   -8.765  1.00 92.25 ? 5  LYS A N   1 Q6MX43 UNP 5  K 
+ATOM 35  C CA  . LYS A 1 5  ? 10.901  7.652   -8.086  1.00 92.25 ? 5  LYS A CA  1 Q6MX43 UNP 5  K 
+ATOM 36  C C   . LYS A 1 5  ? 10.427  6.854   -6.881  1.00 92.25 ? 5  LYS A C   1 Q6MX43 UNP 5  K 
+ATOM 37  C CB  . LYS A 1 5  ? 9.784   8.004   -9.072  1.00 92.25 ? 5  LYS A CB  1 Q6MX43 UNP 5  K 
+ATOM 38  O O   . LYS A 1 5  ? 10.202  5.651   -6.987  1.00 92.25 ? 5  LYS A O   1 Q6MX43 UNP 5  K 
+ATOM 39  C CG  . LYS A 1 5  ? 8.743   8.926   -8.430  1.00 92.25 ? 5  LYS A CG  1 Q6MX43 UNP 5  K 
+ATOM 40  C CD  . LYS A 1 5  ? 7.724   9.415   -9.463  1.00 92.25 ? 5  LYS A CD  1 Q6MX43 UNP 5  K 
+ATOM 41  C CE  . LYS A 1 5  ? 6.688   10.296  -8.759  1.00 92.25 ? 5  LYS A CE  1 Q6MX43 UNP 5  K 
+ATOM 42  N NZ  . LYS A 1 5  ? 5.629   10.761  -9.688  1.00 92.25 ? 5  LYS A NZ  1 Q6MX43 UNP 5  K 
+ATOM 43  N N   . VAL A 1 6  ? 10.282  7.543   -5.758  1.00 94.44 ? 6  VAL A N   1 Q6MX43 UNP 6  V 
+ATOM 44  C CA  . VAL A 1 6  ? 9.692   7.003   -4.534  1.00 94.44 ? 6  VAL A CA  1 Q6MX43 UNP 6  V 
+ATOM 45  C C   . VAL A 1 6  ? 8.309   7.620   -4.378  1.00 94.44 ? 6  VAL A C   1 Q6MX43 UNP 6  V 
+ATOM 46  C CB  . VAL A 1 6  ? 10.592  7.266   -3.314  1.00 94.44 ? 6  VAL A CB  1 Q6MX43 UNP 6  V 
+ATOM 47  O O   . VAL A 1 6  ? 8.157   8.829   -4.569  1.00 94.44 ? 6  VAL A O   1 Q6MX43 UNP 6  V 
+ATOM 48  C CG1 . VAL A 1 6  ? 10.036  6.561   -2.079  1.00 94.44 ? 6  VAL A CG1 1 Q6MX43 UNP 6  V 
+ATOM 49  C CG2 . VAL A 1 6  ? 12.020  6.752   -3.550  1.00 94.44 ? 6  VAL A CG2 1 Q6MX43 UNP 6  V 
+ATOM 50  N N   . ILE A 1 7  ? 7.300   6.796   -4.107  1.00 95.06 ? 7  ILE A N   1 Q6MX43 UNP 7  I 
+ATOM 51  C CA  . ILE A 1 7  ? 5.933   7.250   -3.832  1.00 95.06 ? 7  ILE A CA  1 Q6MX43 UNP 7  I 
+ATOM 52  C C   . ILE A 1 7  ? 5.340   6.473   -2.664  1.00 95.06 ? 7  ILE A C   1 Q6MX43 UNP 7  I 
+ATOM 53  C CB  . ILE A 1 7  ? 4.995   7.148   -5.063  1.00 95.06 ? 7  ILE A CB  1 Q6MX43 UNP 7  I 
+ATOM 54  O O   . ILE A 1 7  ? 5.694   5.316   -2.438  1.00 95.06 ? 7  ILE A O   1 Q6MX43 UNP 7  I 
+ATOM 55  C CG1 . ILE A 1 7  ? 4.658   5.684   -5.424  1.00 95.06 ? 7  ILE A CG1 1 Q6MX43 UNP 7  I 
+ATOM 56  C CG2 . ILE A 1 7  ? 5.562   7.938   -6.256  1.00 95.06 ? 7  ILE A CG2 1 Q6MX43 UNP 7  I 
+ATOM 57  C CD1 . ILE A 1 7  ? 3.676   5.508   -6.591  1.00 95.06 ? 7  ILE A CD1 1 Q6MX43 UNP 7  I 
+ATOM 58  N N   . ASP A 1 8  ? 4.357   7.090   -2.023  1.00 97.44 ? 8  ASP A N   1 Q6MX43 UNP 8  D 
+ATOM 59  C CA  . ASP A 1 8  ? 3.459   6.409   -1.105  1.00 97.44 ? 8  ASP A CA  1 Q6MX43 UNP 8  D 
+ATOM 60  C C   . ASP A 1 8  ? 2.236   5.879   -1.863  1.00 97.44 ? 8  ASP A C   1 Q6MX43 UNP 8  D 
+ATOM 61  C CB  . ASP A 1 8  ? 3.032   7.360   0.016   1.00 97.44 ? 8  ASP A CB  1 Q6MX43 UNP 8  D 
+ATOM 62  O O   . ASP A 1 8  ? 1.628   6.593   -2.667  1.00 97.44 ? 8  ASP A O   1 Q6MX43 UNP 8  D 
+ATOM 63  C CG  . ASP A 1 8  ? 4.163   7.771   0.965   1.00 97.44 ? 8  ASP A CG  1 Q6MX43 UNP 8  D 
+ATOM 64  O OD1 . ASP A 1 8  ? 5.199   7.080   0.997   1.00 97.44 ? 8  ASP A OD1 1 Q6MX43 UNP 8  D 
+ATOM 65  O OD2 . ASP A 1 8  ? 3.920   8.742   1.726   1.00 97.44 ? 8  ASP A OD2 1 Q6MX43 UNP 8  D 
+ATOM 66  N N   . ILE A 1 9  ? 1.848   4.641   -1.577  1.00 97.00 ? 9  ILE A N   1 Q6MX43 UNP 9  I 
+ATOM 67  C CA  . ILE A 1 9  ? 0.592   4.025   -2.013  1.00 97.00 ? 9  ILE A CA  1 Q6MX43 UNP 9  I 
+ATOM 68  C C   . ILE A 1 9  ? -0.157  3.489   -0.796  1.00 97.00 ? 9  ILE A C   1 Q6MX43 UNP 9  I 
+ATOM 69  C CB  . ILE A 1 9  ? 0.816   2.931   -3.083  1.00 97.00 ? 9  ILE A CB  1 Q6MX43 UNP 9  I 
+ATOM 70  O O   . ILE A 1 9  ? 0.458   3.078   0.185   1.00 97.00 ? 9  ILE A O   1 Q6MX43 UNP 9  I 
+ATOM 71  C CG1 . ILE A 1 9  ? 1.664   1.750   -2.559  1.00 97.00 ? 9  ILE A CG1 1 Q6MX43 UNP 9  I 
+ATOM 72  C CG2 . ILE A 1 9  ? 1.425   3.552   -4.350  1.00 97.00 ? 9  ILE A CG2 1 Q6MX43 UNP 9  I 
+ATOM 73  C CD1 . ILE A 1 9  ? 1.869   0.621   -3.575  1.00 97.00 ? 9  ILE A CD1 1 Q6MX43 UNP 9  I 
+ATOM 74  N N   . ILE A 1 10 ? -1.487  3.480   -0.853  1.00 98.12 ? 10 ILE A N   1 Q6MX43 UNP 10 I 
+ATOM 75  C CA  . ILE A 1 10 ? -2.327  2.928   0.214   1.00 98.12 ? 10 ILE A CA  1 Q6MX43 UNP 10 I 
+ATOM 76  C C   . ILE A 1 10 ? -3.117  1.756   -0.356  1.00 98.12 ? 10 ILE A C   1 Q6MX43 UNP 10 I 
+ATOM 77  C CB  . ILE A 1 10 ? -3.216  4.009   0.868   1.00 98.12 ? 10 ILE A CB  1 Q6MX43 UNP 10 I 
+ATOM 78  O O   . ILE A 1 10 ? -3.891  1.924   -1.298  1.00 98.12 ? 10 ILE A O   1 Q6MX43 UNP 10 I 
+ATOM 79  C CG1 . ILE A 1 10 ? -2.331  5.107   1.506   1.00 98.12 ? 10 ILE A CG1 1 Q6MX43 UNP 10 I 
+ATOM 80  C CG2 . ILE A 1 10 ? -4.130  3.370   1.935   1.00 98.12 ? 10 ILE A CG2 1 Q6MX43 UNP 10 I 
+ATOM 81  C CD1 . ILE A 1 10 ? -3.105  6.320   2.033   1.00 98.12 ? 10 ILE A CD1 1 Q6MX43 UNP 10 I 
+ATOM 82  N N   . GLY A 1 11 ? -2.900  0.578   0.218   1.00 98.06 ? 11 GLY A N   1 Q6MX43 UNP 11 G 
+ATOM 83  C CA  . GLY A 1 11 ? -3.707  -0.612  -0.017  1.00 98.06 ? 11 GLY A CA  1 Q6MX43 UNP 11 G 
+ATOM 84  C C   . GLY A 1 11 ? -4.819  -0.731  1.004   1.00 98.06 ? 11 GLY A C   1 Q6MX43 UNP 11 G 
+ATOM 85  O O   . GLY A 1 11 ? -4.657  -0.305  2.150   1.00 98.06 ? 11 GLY A O   1 Q6MX43 UNP 11 G 
+ATOM 86  N N   . THR A 1 12 ? -5.927  -1.352  0.613   1.00 98.44 ? 12 THR A N   1 Q6MX43 UNP 12 T 
+ATOM 87  C CA  . THR A 1 12 ? -7.020  -1.682  1.526   1.00 98.44 ? 12 THR A CA  1 Q6MX43 UNP 12 T 
+ATOM 88  C C   . THR A 1 12 ? -7.490  -3.115  1.311   1.00 98.44 ? 12 THR A C   1 Q6MX43 UNP 12 T 
+ATOM 89  C CB  . THR A 1 12 ? -8.195  -0.698  1.421   1.00 98.44 ? 12 THR A CB  1 Q6MX43 UNP 12 T 
+ATOM 90  O O   . THR A 1 12 ? -7.417  -3.633  0.205   1.00 98.44 ? 12 THR A O   1 Q6MX43 UNP 12 T 
+ATOM 91  C CG2 . THR A 1 12 ? -7.777  0.752   1.667   1.00 98.44 ? 12 THR A CG2 1 Q6MX43 UNP 12 T 
+ATOM 92  O OG1 . THR A 1 12 ? -8.781  -0.732  0.144   1.00 98.44 ? 12 THR A OG1 1 Q6MX43 UNP 12 T 
+ATOM 93  N N   . SER A 1 13 ? -7.954  -3.772  2.372   1.00 98.12 ? 13 SER A N   1 Q6MX43 UNP 13 S 
+ATOM 94  C CA  . SER A 1 13 ? -8.557  -5.106  2.299   1.00 98.12 ? 13 SER A CA  1 Q6MX43 UNP 13 S 
+ATOM 95  C C   . SER A 1 13 ? -9.546  -5.306  3.452   1.00 98.12 ? 13 SER A C   1 Q6MX43 UNP 13 S 
+ATOM 96  C CB  . SER A 1 13 ? -7.473  -6.192  2.337   1.00 98.12 ? 13 SER A CB  1 Q6MX43 UNP 13 S 
+ATOM 97  O O   . SER A 1 13 ? -9.316  -4.792  4.548   1.00 98.12 ? 13 SER A O   1 Q6MX43 UNP 13 S 
+ATOM 98  O OG  . SER A 1 13 ? -8.051  -7.466  2.554   1.00 98.12 ? 13 SER A OG  1 Q6MX43 UNP 13 S 
+ATOM 99  N N   . PRO A 1 14 ? -10.645 -6.056  3.253   1.00 97.62 ? 14 PRO A N   1 Q6MX43 UNP 14 P 
+ATOM 100 C CA  . PRO A 1 14 ? -11.519 -6.475  4.346   1.00 97.62 ? 14 PRO A CA  1 Q6MX43 UNP 14 P 
+ATOM 101 C C   . PRO A 1 14 ? -10.945 -7.636  5.181   1.00 97.62 ? 14 PRO A C   1 Q6MX43 UNP 14 P 
+ATOM 102 C CB  . PRO A 1 14 ? -12.820 -6.879  3.649   1.00 97.62 ? 14 PRO A CB  1 Q6MX43 UNP 14 P 
+ATOM 103 O O   . PRO A 1 14 ? -11.533 -7.975  6.203   1.00 97.62 ? 14 PRO A O   1 Q6MX43 UNP 14 P 
+ATOM 104 C CG  . PRO A 1 14 ? -12.331 -7.458  2.321   1.00 97.62 ? 14 PRO A CG  1 Q6MX43 UNP 14 P 
+ATOM 105 C CD  . PRO A 1 14 ? -11.134 -6.573  1.978   1.00 97.62 ? 14 PRO A CD  1 Q6MX43 UNP 14 P 
+ATOM 106 N N   . THR A 1 15 ? -9.840  -8.261  4.759   1.00 97.75 ? 15 THR A N   1 Q6MX43 UNP 15 T 
+ATOM 107 C CA  . THR A 1 15 ? -9.331  -9.509  5.357   1.00 97.75 ? 15 THR A CA  1 Q6MX43 UNP 15 T 
+ATOM 108 C C   . THR A 1 15 ? -8.116  -9.285  6.252   1.00 97.75 ? 15 THR A C   1 Q6MX43 UNP 15 T 
+ATOM 109 C CB  . THR A 1 15 ? -8.943  -10.525 4.278   1.00 97.75 ? 15 THR A CB  1 Q6MX43 UNP 15 T 
+ATOM 110 O O   . THR A 1 15 ? -8.114  -9.745  7.389   1.00 97.75 ? 15 THR A O   1 Q6MX43 UNP 15 T 
+ATOM 111 C CG2 . THR A 1 15 ? -8.747  -11.945 4.798   1.00 97.75 ? 15 THR A CG2 1 Q6MX43 UNP 15 T 
+ATOM 112 O OG1 . THR A 1 15 ? -9.895  -10.581 3.241   1.00 97.75 ? 15 THR A OG1 1 Q6MX43 UNP 15 T 
+ATOM 113 N N   . SER A 1 16 ? -7.062  -8.630  5.748   1.00 98.50 ? 16 SER A N   1 Q6MX43 UNP 16 S 
+ATOM 114 C CA  . SER A 1 16 ? -5.824  -8.401  6.507   1.00 98.50 ? 16 SER A CA  1 Q6MX43 UNP 16 S 
+ATOM 115 C C   . SER A 1 16 ? -4.932  -7.328  5.872   1.00 98.50 ? 16 SER A C   1 Q6MX43 UNP 16 S 
+ATOM 116 C CB  . SER A 1 16 ? -5.033  -9.713  6.675   1.00 98.50 ? 16 SER A CB  1 Q6MX43 UNP 16 S 
+ATOM 117 O O   . SER A 1 16 ? -5.100  -6.967  4.701   1.00 98.50 ? 16 SER A O   1 Q6MX43 UNP 16 S 
+ATOM 118 O OG  . SER A 1 16 ? -4.138  -9.981  5.611   1.00 98.50 ? 16 SER A OG  1 Q6MX43 UNP 16 S 
+ATOM 119 N N   . TRP A 1 17 ? -3.941  -6.839  6.625   1.00 98.56 ? 17 TRP A N   1 Q6MX43 UNP 17 W 
+ATOM 120 C CA  . TRP A 1 17 ? -2.925  -5.921  6.099   1.00 98.56 ? 17 TRP A CA  1 Q6MX43 UNP 17 W 
+ATOM 121 C C   . TRP A 1 17 ? -2.021  -6.576  5.049   1.00 98.56 ? 17 TRP A C   1 Q6MX43 UNP 17 W 
+ATOM 122 C CB  . TRP A 1 17 ? -2.071  -5.367  7.243   1.00 98.56 ? 17 TRP A CB  1 Q6MX43 UNP 17 W 
+ATOM 123 O O   . TRP A 1 17 ? -1.626  -5.905  4.100   1.00 98.56 ? 17 TRP A O   1 Q6MX43 UNP 17 W 
+ATOM 124 C CG  . TRP A 1 17 ? -2.774  -4.451  8.195   1.00 98.56 ? 17 TRP A CG  1 Q6MX43 UNP 17 W 
+ATOM 125 C CD1 . TRP A 1 17 ? -3.293  -3.237  7.898   1.00 98.56 ? 17 TRP A CD1 1 Q6MX43 UNP 17 W 
+ATOM 126 C CD2 . TRP A 1 17 ? -3.016  -4.650  9.620   1.00 98.56 ? 17 TRP A CD2 1 Q6MX43 UNP 17 W 
+ATOM 127 C CE2 . TRP A 1 17 ? -3.681  -3.492  10.127  1.00 98.56 ? 17 TRP A CE2 1 Q6MX43 UNP 17 W 
+ATOM 128 C CE3 . TRP A 1 17 ? -2.739  -5.692  10.532  1.00 98.56 ? 17 TRP A CE3 1 Q6MX43 UNP 17 W 
+ATOM 129 N NE1 . TRP A 1 17 ? -3.848  -2.672  9.030   1.00 98.56 ? 17 TRP A NE1 1 Q6MX43 UNP 17 W 
+ATOM 130 C CH2 . TRP A 1 17 ? -3.761  -4.429  12.357  1.00 98.56 ? 17 TRP A CH2 1 Q6MX43 UNP 17 W 
+ATOM 131 C CZ2 . TRP A 1 17 ? -4.046  -3.374  11.474  1.00 98.56 ? 17 TRP A CZ2 1 Q6MX43 UNP 17 W 
+ATOM 132 C CZ3 . TRP A 1 17 ? -3.110  -5.584  11.886  1.00 98.56 ? 17 TRP A CZ3 1 Q6MX43 UNP 17 W 
+ATOM 133 N N   . GLU A 1 18 ? -1.718  -7.872  5.163   1.00 98.31 ? 18 GLU A N   1 Q6MX43 UNP 18 E 
+ATOM 134 C CA  . GLU A 1 18 ? -0.904  -8.609  4.187   1.00 98.31 ? 18 GLU A CA  1 Q6MX43 UNP 18 E 
+ATOM 135 C C   . GLU A 1 18 ? -1.597  -8.673  2.827   1.00 98.31 ? 18 GLU A C   1 Q6MX43 UNP 18 E 
+ATOM 136 C CB  . GLU A 1 18 ? -0.599  -10.051 4.638   1.00 98.31 ? 18 GLU A CB  1 Q6MX43 UNP 18 E 
+ATOM 137 O O   . GLU A 1 18 ? -0.953  -8.438  1.802   1.00 98.31 ? 18 GLU A O   1 Q6MX43 UNP 18 E 
+ATOM 138 C CG  . GLU A 1 18 ? 0.196   -10.174 5.945   1.00 98.31 ? 18 GLU A CG  1 Q6MX43 UNP 18 E 
+ATOM 139 C CD  . GLU A 1 18 ? -0.625  -9.855  7.203   1.00 98.31 ? 18 GLU A CD  1 Q6MX43 UNP 18 E 
+ATOM 140 O OE1 . GLU A 1 18 ? 0.011   -9.599  8.244   1.00 98.31 ? 18 GLU A OE1 1 Q6MX43 UNP 18 E 
+ATOM 141 O OE2 . GLU A 1 18 ? -1.880  -9.825  7.103   1.00 98.31 ? 18 GLU A OE2 1 Q6MX43 UNP 18 E 
+ATOM 142 N N   . GLN A 1 19 ? -2.912  -8.931  2.810   1.00 98.38 ? 19 GLN A N   1 Q6MX43 UNP 19 Q 
+ATOM 143 C CA  . GLN A 1 19 ? -3.679  -8.889  1.568   1.00 98.38 ? 19 GLN A CA  1 Q6MX43 UNP 19 Q 
+ATOM 144 C C   . GLN A 1 19 ? -3.683  -7.471  0.986   1.00 98.38 ? 19 GLN A C   1 Q6MX43 UNP 19 Q 
+ATOM 145 C CB  . GLN A 1 19 ? -5.103  -9.424  1.780   1.00 98.38 ? 19 GLN A CB  1 Q6MX43 UNP 19 Q 
+ATOM 146 O O   . GLN A 1 19 ? -3.362  -7.303  -0.189  1.00 98.38 ? 19 GLN A O   1 Q6MX43 UNP 19 Q 
+ATOM 147 C CG  . GLN A 1 19 ? -5.842  -9.466  0.428   1.00 98.38 ? 19 GLN A CG  1 Q6MX43 UNP 19 Q 
+ATOM 148 C CD  . GLN A 1 19 ? -7.270  -9.979  0.499   1.00 98.38 ? 19 GLN A CD  1 Q6MX43 UNP 19 Q 
+ATOM 149 N NE2 . GLN A 1 19 ? -7.918  -10.190 -0.615  1.00 98.38 ? 19 GLN A NE2 1 Q6MX43 UNP 19 Q 
+ATOM 150 O OE1 . GLN A 1 19 ? -7.861  -10.130 1.549   1.00 98.38 ? 19 GLN A OE1 1 Q6MX43 UNP 19 Q 
+ATOM 151 N N   . ALA A 1 20 ? -3.973  -6.450  1.803   1.00 98.50 ? 20 ALA A N   1 Q6MX43 UNP 20 A 
+ATOM 152 C CA  . ALA A 1 20 ? -3.959  -5.053  1.364   1.00 98.50 ? 20 ALA A CA  1 Q6MX43 UNP 20 A 
+ATOM 153 C C   . ALA A 1 20 ? -2.595  -4.646  0.771   1.00 98.50 ? 20 ALA A C   1 Q6MX43 UNP 20 A 
+ATOM 154 C CB  . ALA A 1 20 ? -4.310  -4.167  2.568   1.00 98.50 ? 20 ALA A CB  1 Q6MX43 UNP 20 A 
+ATOM 155 O O   . ALA A 1 20 ? -2.531  -3.955  -0.248  1.00 98.50 ? 20 ALA A O   1 Q6MX43 UNP 20 A 
+ATOM 156 N N   . ALA A 1 21 ? -1.499  -5.098  1.387   1.00 98.38 ? 21 ALA A N   1 Q6MX43 UNP 21 A 
+ATOM 157 C CA  . ALA A 1 21 ? -0.142  -4.811  0.944   1.00 98.38 ? 21 ALA A CA  1 Q6MX43 UNP 21 A 
+ATOM 158 C C   . ALA A 1 21 ? 0.173   -5.485  -0.394  1.00 98.38 ? 21 ALA A C   1 Q6MX43 UNP 21 A 
+ATOM 159 C CB  . ALA A 1 21 ? 0.843   -5.278  2.024   1.00 98.38 ? 21 ALA A CB  1 Q6MX43 UNP 21 A 
+ATOM 160 O O   . ALA A 1 21 ? 0.675   -4.838  -1.316  1.00 98.38 ? 21 ALA A O   1 Q6MX43 UNP 21 A 
+ATOM 161 N N   . ALA A 1 22 ? -0.139  -6.779  -0.509  1.00 97.69 ? 22 ALA A N   1 Q6MX43 UNP 22 A 
+ATOM 162 C CA  . ALA A 1 22 ? 0.070   -7.536  -1.733  1.00 97.69 ? 22 ALA A CA  1 Q6MX43 UNP 22 A 
+ATOM 163 C C   . ALA A 1 22 ? -0.727  -6.930  -2.895  1.00 97.69 ? 22 ALA A C   1 Q6MX43 UNP 22 A 
+ATOM 164 C CB  . ALA A 1 22 ? -0.305  -9.001  -1.476  1.00 97.69 ? 22 ALA A CB  1 Q6MX43 UNP 22 A 
+ATOM 165 O O   . ALA A 1 22 ? -0.160  -6.696  -3.961  1.00 97.69 ? 22 ALA A O   1 Q6MX43 UNP 22 A 
+ATOM 166 N N   . GLU A 1 23 ? -2.004  -6.608  -2.681  1.00 97.00 ? 23 GLU A N   1 Q6MX43 UNP 23 E 
+ATOM 167 C CA  . GLU A 1 23 ? -2.869  -6.002  -3.698  1.00 97.00 ? 23 GLU A CA  1 Q6MX43 UNP 23 E 
+ATOM 168 C C   . GLU A 1 23 ? -2.368  -4.623  -4.141  1.00 97.00 ? 23 GLU A C   1 Q6MX43 UNP 23 E 
+ATOM 169 C CB  . GLU A 1 23 ? -4.310  -5.910  -3.177  1.00 97.00 ? 23 GLU A CB  1 Q6MX43 UNP 23 E 
+ATOM 170 O O   . GLU A 1 23 ? -2.288  -4.363  -5.344  1.00 97.00 ? 23 GLU A O   1 Q6MX43 UNP 23 E 
+ATOM 171 C CG  . GLU A 1 23 ? -4.984  -7.291  -3.154  1.00 97.00 ? 23 GLU A CG  1 Q6MX43 UNP 23 E 
+ATOM 172 C CD  . GLU A 1 23 ? -6.432  -7.262  -2.644  1.00 97.00 ? 23 GLU A CD  1 Q6MX43 UNP 23 E 
+ATOM 173 O OE1 . GLU A 1 23 ? -6.985  -8.371  -2.449  1.00 97.00 ? 23 GLU A OE1 1 Q6MX43 UNP 23 E 
+ATOM 174 O OE2 . GLU A 1 23 ? -6.989  -6.161  -2.455  1.00 97.00 ? 23 GLU A OE2 1 Q6MX43 UNP 23 E 
+ATOM 175 N N   . ALA A 1 24 ? -1.948  -3.764  -3.206  1.00 97.56 ? 24 ALA A N   1 Q6MX43 UNP 24 A 
+ATOM 176 C CA  . ALA A 1 24 ? -1.371  -2.461  -3.535  1.00 97.56 ? 24 ALA A CA  1 Q6MX43 UNP 24 A 
+ATOM 177 C C   . ALA A 1 24 ? -0.117  -2.585  -4.410  1.00 97.56 ? 24 ALA A C   1 Q6MX43 UNP 24 A 
+ATOM 178 C CB  . ALA A 1 24 ? -1.047  -1.722  -2.238  1.00 97.56 ? 24 ALA A CB  1 Q6MX43 UNP 24 A 
+ATOM 179 O O   . ALA A 1 24 ? 0.018   -1.874  -5.409  1.00 97.56 ? 24 ALA A O   1 Q6MX43 UNP 24 A 
+ATOM 180 N N   . VAL A 1 25 ? 0.787   -3.511  -4.069  1.00 96.88 ? 25 VAL A N   1 Q6MX43 UNP 25 V 
+ATOM 181 C CA  . VAL A 1 25 ? 2.008   -3.749  -4.850  1.00 96.88 ? 25 VAL A CA  1 Q6MX43 UNP 25 V 
+ATOM 182 C C   . VAL A 1 25 ? 1.677   -4.316  -6.227  1.00 96.88 ? 25 VAL A C   1 Q6MX43 UNP 25 V 
+ATOM 183 C CB  . VAL A 1 25 ? 2.996   -4.654  -4.090  1.00 96.88 ? 25 VAL A CB  1 Q6MX43 UNP 25 V 
+ATOM 184 O O   . VAL A 1 25 ? 2.211   -3.816  -7.215  1.00 96.88 ? 25 VAL A O   1 Q6MX43 UNP 25 V 
+ATOM 185 C CG1 . VAL A 1 25 ? 4.203   -5.054  -4.953  1.00 96.88 ? 25 VAL A CG1 1 Q6MX43 UNP 25 V 
+ATOM 186 C CG2 . VAL A 1 25 ? 3.545   -3.922  -2.859  1.00 96.88 ? 25 VAL A CG2 1 Q6MX43 UNP 25 V 
+ATOM 187 N N   . GLN A 1 26 ? 0.791   -5.314  -6.331  1.00 95.75 ? 26 GLN A N   1 Q6MX43 UNP 26 Q 
+ATOM 188 C CA  . GLN A 1 26 ? 0.393   -5.862  -7.635  1.00 95.75 ? 26 GLN A CA  1 Q6MX43 UNP 26 Q 
+ATOM 189 C C   . GLN A 1 26 ? -0.231  -4.781  -8.519  1.00 95.75 ? 26 GLN A C   1 Q6MX43 UNP 26 Q 
+ATOM 190 C CB  . GLN A 1 26 ? -0.581  -7.041  -7.479  1.00 95.75 ? 26 GLN A CB  1 Q6MX43 UNP 26 Q 
+ATOM 191 O O   . GLN A 1 26 ? 0.168   -4.630  -9.671  1.00 95.75 ? 26 GLN A O   1 Q6MX43 UNP 26 Q 
+ATOM 192 C CG  . GLN A 1 26 ? 0.043   -8.293  -6.847  1.00 95.75 ? 26 GLN A CG  1 Q6MX43 UNP 26 Q 
+ATOM 193 C CD  . GLN A 1 26 ? 1.256   -8.865  -7.575  1.00 95.75 ? 26 GLN A CD  1 Q6MX43 UNP 26 Q 
+ATOM 194 N NE2 . GLN A 1 26 ? 2.109   -9.571  -6.865  1.00 95.75 ? 26 GLN A NE2 1 Q6MX43 UNP 26 Q 
+ATOM 195 O OE1 . GLN A 1 26 ? 1.493   -8.716  -8.761  1.00 95.75 ? 26 GLN A OE1 1 Q6MX43 UNP 26 Q 
+ATOM 196 N N   . ARG A 1 27 ? -1.117  -3.948  -7.961  1.00 95.81 ? 27 ARG A N   1 Q6MX43 UNP 27 R 
+ATOM 197 C CA  . ARG A 1 27 ? -1.740  -2.855  -8.709  1.00 95.81 ? 27 ARG A CA  1 Q6MX43 UNP 27 R 
+ATOM 198 C C   . ARG A 1 27 ? -0.731  -1.805  -9.171  1.00 95.81 ? 27 ARG A C   1 Q6MX43 UNP 27 R 
+ATOM 199 C CB  . ARG A 1 27 ? -2.848  -2.232  -7.843  1.00 95.81 ? 27 ARG A CB  1 Q6MX43 UNP 27 R 
+ATOM 200 O O   . ARG A 1 27 ? -0.836  -1.294  -10.285 1.00 95.81 ? 27 ARG A O   1 Q6MX43 UNP 27 R 
+ATOM 201 C CG  . ARG A 1 27 ? -3.654  -1.150  -8.575  1.00 95.81 ? 27 ARG A CG  1 Q6MX43 UNP 27 R 
+ATOM 202 C CD  . ARG A 1 27 ? -4.375  -1.738  -9.792  1.00 95.81 ? 27 ARG A CD  1 Q6MX43 UNP 27 R 
+ATOM 203 N NE  . ARG A 1 27 ? -5.069  -0.696  -10.560 1.00 95.81 ? 27 ARG A NE  1 Q6MX43 UNP 27 R 
+ATOM 204 N NH1 . ARG A 1 27 ? -4.332  -1.348  -12.657 1.00 95.81 ? 27 ARG A NH1 1 Q6MX43 UNP 27 R 
+ATOM 205 N NH2 . ARG A 1 27 ? -5.676  0.426   -12.430 1.00 95.81 ? 27 ARG A NH2 1 Q6MX43 UNP 27 R 
+ATOM 206 C CZ  . ARG A 1 27 ? -5.014  -0.552  -11.873 1.00 95.81 ? 27 ARG A CZ  1 Q6MX43 UNP 27 R 
+ATOM 207 N N   . ALA A 1 28 ? 0.249   -1.475  -8.332  1.00 94.69 ? 28 ALA A N   1 Q6MX43 UNP 28 A 
+ATOM 208 C CA  . ALA A 1 28 ? 1.313   -0.550  -8.703  1.00 94.69 ? 28 ALA A CA  1 Q6MX43 UNP 28 A 
+ATOM 209 C C   . ALA A 1 28 ? 2.171   -1.108  -9.853  1.00 94.69 ? 28 ALA A C   1 Q6MX43 UNP 28 A 
+ATOM 210 C CB  . ALA A 1 28 ? 2.138   -0.222  -7.454  1.00 94.69 ? 28 ALA A CB  1 Q6MX43 UNP 28 A 
+ATOM 211 O O   . ALA A 1 28 ? 2.503   -0.360  -10.774 1.00 94.69 ? 28 ALA A O   1 Q6MX43 UNP 28 A 
+ATOM 212 N N   . ARG A 1 29 ? 2.463   -2.417  -9.853  1.00 93.31 ? 29 ARG A N   1 Q6MX43 UNP 29 R 
+ATOM 213 C CA  . ARG A 1 29 ? 3.242   -3.089  -10.911 1.00 93.31 ? 29 ARG A CA  1 Q6MX43 UNP 29 R 
+ATOM 214 C C   . ARG A 1 29 ? 2.592   -3.027  -12.294 1.00 93.31 ? 29 ARG A C   1 Q6MX43 UNP 29 R 
+ATOM 215 C CB  . ARG A 1 29 ? 3.499   -4.554  -10.542 1.00 93.31 ? 29 ARG A CB  1 Q6MX43 UNP 29 R 
+ATOM 216 O O   . ARG A 1 29 ? 3.319   -3.053  -13.278 1.00 93.31 ? 29 ARG A O   1 Q6MX43 UNP 29 R 
+ATOM 217 C CG  . ARG A 1 29 ? 4.520   -4.707  -9.408  1.00 93.31 ? 29 ARG A CG  1 Q6MX43 UNP 29 R 
+ATOM 218 C CD  . ARG A 1 29 ? 4.691   -6.180  -9.040  1.00 93.31 ? 29 ARG A CD  1 Q6MX43 UNP 29 R 
+ATOM 219 N NE  . ARG A 1 29 ? 5.399   -6.899  -10.114 1.00 93.31 ? 29 ARG A NE  1 Q6MX43 UNP 29 R 
+ATOM 220 N NH1 . ARG A 1 29 ? 5.057   -9.020  -9.331  1.00 93.31 ? 29 ARG A NH1 1 Q6MX43 UNP 29 R 
+ATOM 221 N NH2 . ARG A 1 29 ? 6.259   -8.703  -11.191 1.00 93.31 ? 29 ARG A NH2 1 Q6MX43 UNP 29 R 
+ATOM 222 C CZ  . ARG A 1 29 ? 5.572   -8.201  -10.204 1.00 93.31 ? 29 ARG A CZ  1 Q6MX43 UNP 29 R 
+ATOM 223 N N   . ASP A 1 30 ? 1.271   -2.885  -12.385 1.00 92.56 ? 30 ASP A N   1 Q6MX43 UNP 30 D 
+ATOM 224 C CA  . ASP A 1 30 ? 0.601   -2.658  -13.676 1.00 92.56 ? 30 ASP A CA  1 Q6MX43 UNP 30 D 
+ATOM 225 C C   . ASP A 1 30 ? 0.980   -1.305  -14.305 1.00 92.56 ? 30 ASP A C   1 Q6MX43 UNP 30 D 
+ATOM 226 C CB  . ASP A 1 30 ? -0.923  -2.635  -13.504 1.00 92.56 ? 30 ASP A CB  1 Q6MX43 UNP 30 D 
+ATOM 227 O O   . ASP A 1 30 ? 0.884   -1.115  -15.515 1.00 92.56 ? 30 ASP A O   1 Q6MX43 UNP 30 D 
+ATOM 228 C CG  . ASP A 1 30 ? -1.565  -3.919  -12.993 1.00 92.56 ? 30 ASP A CG  1 Q6MX43 UNP 30 D 
+ATOM 229 O OD1 . ASP A 1 30 ? -0.977  -5.003  -13.191 1.00 92.56 ? 30 ASP A OD1 1 Q6MX43 UNP 30 D 
+ATOM 230 O OD2 . ASP A 1 30 ? -2.689  -3.758  -12.449 1.00 92.56 ? 30 ASP A OD2 1 Q6MX43 UNP 30 D 
+ATOM 231 N N   . SER A 1 31 ? 1.340   -0.322  -13.474 1.00 89.31 ? 31 SER A N   1 Q6MX43 UNP 31 S 
+ATOM 232 C CA  . SER A 1 31 ? 1.535   1.072   -13.893 1.00 89.31 ? 31 SER A CA  1 Q6MX43 UNP 31 S 
+ATOM 233 C C   . SER A 1 31 ? 3.006   1.457   -14.030 1.00 89.31 ? 31 SER A C   1 Q6MX43 UNP 31 S 
+ATOM 234 C CB  . SER A 1 31 ? 0.869   2.004   -12.879 1.00 89.31 ? 31 SER A CB  1 Q6MX43 UNP 31 S 
+ATOM 235 O O   . SER A 1 31 ? 3.340   2.397   -14.763 1.00 89.31 ? 31 SER A O   1 Q6MX43 UNP 31 S 
+ATOM 236 O OG  . SER A 1 31 ? -0.514  1.731   -12.788 1.00 89.31 ? 31 SER A OG  1 Q6MX43 UNP 31 S 
+ATOM 237 N N   . VAL A 1 32 ? 3.885   0.788   -13.286 1.00 89.62 ? 32 VAL A N   1 Q6MX43 UNP 32 V 
+ATOM 238 C CA  . VAL A 1 32 ? 5.312   1.103   -13.227 1.00 89.62 ? 32 VAL A CA  1 Q6MX43 UNP 32 V 
+ATOM 239 C C   . VAL A 1 32 ? 6.153   -0.164  -13.213 1.00 89.62 ? 32 VAL A C   1 Q6MX43 UNP 32 V 
+ATOM 240 C CB  . VAL A 1 32 ? 5.668   2.013   -12.033 1.00 89.62 ? 32 VAL A CB  1 Q6MX43 UNP 32 V 
+ATOM 241 O O   . VAL A 1 32 ? 5.802   -1.168  -12.596 1.00 89.62 ? 32 VAL A O   1 Q6MX43 UNP 32 V 
+ATOM 242 C CG1 . VAL A 1 32 ? 4.880   3.331   -12.058 1.00 89.62 ? 32 VAL A CG1 1 Q6MX43 UNP 32 V 
+ATOM 243 C CG2 . VAL A 1 32 ? 5.436   1.371   -10.666 1.00 89.62 ? 32 VAL A CG2 1 Q6MX43 UNP 32 V 
+ATOM 244 N N   . ASP A 1 33 ? 7.306   -0.079  -13.862 1.00 87.56 ? 33 ASP A N   1 Q6MX43 UNP 33 D 
+ATOM 245 C CA  . ASP A 1 33 ? 8.262   -1.172  -13.925 1.00 87.56 ? 33 ASP A CA  1 Q6MX43 UNP 33 D 
+ATOM 246 C C   . ASP A 1 33 ? 9.238   -1.122  -12.746 1.00 87.56 ? 33 ASP A C   1 Q6MX43 UNP 33 D 
+ATOM 247 C CB  . ASP A 1 33 ? 9.012   -1.124  -15.262 1.00 87.56 ? 33 ASP A CB  1 Q6MX43 UNP 33 D 
+ATOM 248 O O   . ASP A 1 33 ? 9.519   -0.066  -12.178 1.00 87.56 ? 33 ASP A O   1 Q6MX43 UNP 33 D 
+ATOM 249 C CG  . ASP A 1 33 ? 8.056   -1.185  -16.452 1.00 87.56 ? 33 ASP A CG  1 Q6MX43 UNP 33 D 
+ATOM 250 O OD1 . ASP A 1 33 ? 7.311   -2.182  -16.531 1.00 87.56 ? 33 ASP A OD1 1 Q6MX43 UNP 33 D 
+ATOM 251 O OD2 . ASP A 1 33 ? 8.091   -0.224  -17.258 1.00 87.56 ? 33 ASP A OD2 1 Q6MX43 UNP 33 D 
+ATOM 252 N N   . ASP A 1 34 ? 9.837   -2.271  -12.441 1.00 90.56 ? 34 ASP A N   1 Q6MX43 UNP 34 D 
+ATOM 253 C CA  . ASP A 1 34 ? 10.999  -2.363  -11.549 1.00 90.56 ? 34 ASP A CA  1 Q6MX43 UNP 34 D 
+ATOM 254 C C   . ASP A 1 34 ? 10.726  -1.972  -10.079 1.00 90.56 ? 34 ASP A C   1 Q6MX43 UNP 34 D 
+ATOM 255 C CB  . ASP A 1 34 ? 12.185  -1.616  -12.199 1.00 90.56 ? 34 ASP A CB  1 Q6MX43 UNP 34 D 
+ATOM 256 O O   . ASP A 1 34 ? 11.604  -1.453  -9.392  1.00 90.56 ? 34 ASP A O   1 Q6MX43 UNP 34 D 
+ATOM 257 C CG  . ASP A 1 34 ? 13.573  -2.148  -11.844 1.00 90.56 ? 34 ASP A CG  1 Q6MX43 UNP 34 D 
+ATOM 258 O OD1 . ASP A 1 34 ? 13.684  -3.318  -11.399 1.00 90.56 ? 34 ASP A OD1 1 Q6MX43 UNP 34 D 
+ATOM 259 O OD2 . ASP A 1 34 ? 14.552  -1.437  -12.161 1.00 90.56 ? 34 ASP A OD2 1 Q6MX43 UNP 34 D 
+ATOM 260 N N   . ILE A 1 35 ? 9.520   -2.261  -9.566  1.00 92.06 ? 35 ILE A N   1 Q6MX43 UNP 35 I 
+ATOM 261 C CA  . ILE A 1 35 ? 9.275   -2.300  -8.113  1.00 92.06 ? 35 ILE A CA  1 Q6MX43 UNP 35 I 
+ATOM 262 C C   . ILE A 1 35 ? 10.000  -3.520  -7.532  1.00 92.06 ? 35 ILE A C   1 Q6MX43 UNP 35 I 
+ATOM 263 C CB  . ILE A 1 35 ? 7.769   -2.335  -7.754  1.00 92.06 ? 35 ILE A CB  1 Q6MX43 UNP 35 I 
+ATOM 264 O O   . ILE A 1 35 ? 9.721   -4.656  -7.922  1.00 92.06 ? 35 ILE A O   1 Q6MX43 UNP 35 I 
+ATOM 265 C CG1 . ILE A 1 35 ? 7.046   -1.072  -8.263  1.00 92.06 ? 35 ILE A CG1 1 Q6MX43 UNP 35 I 
+ATOM 266 C CG2 . ILE A 1 35 ? 7.591   -2.447  -6.223  1.00 92.06 ? 35 ILE A CG2 1 Q6MX43 UNP 35 I 
+ATOM 267 C CD1 . ILE A 1 35 ? 5.520   -1.114  -8.108  1.00 92.06 ? 35 ILE A CD1 1 Q6MX43 UNP 35 I 
+ATOM 268 N N   . ARG A 1 36 ? 10.914  -3.297  -6.581  1.00 90.75 ? 36 ARG A N   1 Q6MX43 UNP 36 R 
+ATOM 269 C CA  . ARG A 1 36 ? 11.692  -4.369  -5.923  1.00 90.75 ? 36 ARG A CA  1 Q6MX43 UNP 36 R 
+ATOM 270 C C   . ARG A 1 36 ? 11.356  -4.560  -4.456  1.00 90.75 ? 36 ARG A C   1 Q6MX43 UNP 36 R 
+ATOM 271 C CB  . ARG A 1 36 ? 13.197  -4.098  -6.083  1.00 90.75 ? 36 ARG A CB  1 Q6MX43 UNP 36 R 
+ATOM 272 O O   . ARG A 1 36 ? 11.327  -5.691  -3.984  1.00 90.75 ? 36 ARG A O   1 Q6MX43 UNP 36 R 
+ATOM 273 C CG  . ARG A 1 36 ? 13.666  -4.084  -7.542  1.00 90.75 ? 36 ARG A CG  1 Q6MX43 UNP 36 R 
+ATOM 274 C CD  . ARG A 1 36 ? 13.469  -5.446  -8.214  1.00 90.75 ? 36 ARG A CD  1 Q6MX43 UNP 36 R 
+ATOM 275 N NE  . ARG A 1 36 ? 13.862  -5.366  -9.619  1.00 90.75 ? 36 ARG A NE  1 Q6MX43 UNP 36 R 
+ATOM 276 N NH1 . ARG A 1 36 ? 13.716  -7.583  -10.197 1.00 90.75 ? 36 ARG A NH1 1 Q6MX43 UNP 36 R 
+ATOM 277 N NH2 . ARG A 1 36 ? 14.219  -6.012  -11.725 1.00 90.75 ? 36 ARG A NH2 1 Q6MX43 UNP 36 R 
+ATOM 278 C CZ  . ARG A 1 36 ? 13.935  -6.333  -10.501 1.00 90.75 ? 36 ARG A CZ  1 Q6MX43 UNP 36 R 
+ATOM 279 N N   . VAL A 1 37 ? 11.120  -3.463  -3.747  1.00 92.88 ? 37 VAL A N   1 Q6MX43 UNP 37 V 
+ATOM 280 C CA  . VAL A 1 37 ? 10.837  -3.461  -2.313  1.00 92.88 ? 37 VAL A CA  1 Q6MX43 UNP 37 V 
+ATOM 281 C C   . VAL A 1 37 ? 9.730   -2.451  -2.041  1.00 92.88 ? 37 VAL A C   1 Q6MX43 UNP 37 V 
+ATOM 282 C CB  . VAL A 1 37 ? 12.104  -3.150  -1.486  1.00 92.88 ? 37 VAL A CB  1 Q6MX43 UNP 37 V 
+ATOM 283 O O   . VAL A 1 37 ? 9.742   -1.347  -2.588  1.00 92.88 ? 37 VAL A O   1 Q6MX43 UNP 37 V 
+ATOM 284 C CG1 . VAL A 1 37 ? 11.817  -3.222  0.019   1.00 92.88 ? 37 VAL A CG1 1 Q6MX43 UNP 37 V 
+ATOM 285 C CG2 . VAL A 1 37 ? 13.245  -4.137  -1.782  1.00 92.88 ? 37 VAL A CG2 1 Q6MX43 UNP 37 V 
+ATOM 286 N N   . ALA A 1 38 ? 8.790   -2.848  -1.189  1.00 96.62 ? 38 ALA A N   1 Q6MX43 UNP 38 A 
+ATOM 287 C CA  . ALA A 1 38 ? 7.783   -1.983  -0.599  1.00 96.62 ? 38 ALA A CA  1 Q6MX43 UNP 38 A 
+ATOM 288 C C   . ALA A 1 38 ? 8.015   -1.944  0.914   1.00 96.62 ? 38 ALA A C   1 Q6MX43 UNP 38 A 
+ATOM 289 C CB  . ALA A 1 38 ? 6.395   -2.522  -0.957  1.00 96.62 ? 38 ALA A CB  1 Q6MX43 UNP 38 A 
+ATOM 290 O O   . ALA A 1 38 ? 8.155   -2.993  1.545   1.00 96.62 ? 38 ALA A O   1 Q6MX43 UNP 38 A 
+ATOM 291 N N   . ARG A 1 39 ? 8.084   -0.746  1.490   1.00 97.75 ? 39 ARG A N   1 Q6MX43 UNP 39 R 
+ATOM 292 C CA  . ARG A 1 39 ? 8.303   -0.530  2.921   1.00 97.75 ? 39 ARG A CA  1 Q6MX43 UNP 39 R 
+ATOM 293 C C   . ARG A 1 39 ? 6.997   -0.113  3.573   1.00 97.75 ? 39 ARG A C   1 Q6MX43 UNP 39 R 
+ATOM 294 C CB  . ARG A 1 39 ? 9.412   0.515   3.093   1.00 97.75 ? 39 ARG A CB  1 Q6MX43 UNP 39 R 
+ATOM 295 O O   . ARG A 1 39 ? 6.348   0.814   3.103   1.00 97.75 ? 39 ARG A O   1 Q6MX43 UNP 39 R 
+ATOM 296 C CG  . ARG A 1 39 ? 9.718   0.830   4.564   1.00 97.75 ? 39 ARG A CG  1 Q6MX43 UNP 39 R 
+ATOM 297 C CD  . ARG A 1 39 ? 11.004  1.657   4.682   1.00 97.75 ? 39 ARG A CD  1 Q6MX43 UNP 39 R 
+ATOM 298 N NE  . ARG A 1 39 ? 10.873  3.023   4.124   1.00 97.75 ? 39 ARG A NE  1 Q6MX43 UNP 39 R 
+ATOM 299 N NH1 . ARG A 1 39 ? 11.061  4.216   6.084   1.00 97.75 ? 39 ARG A NH1 1 Q6MX43 UNP 39 R 
+ATOM 300 N NH2 . ARG A 1 39 ? 10.919  5.294   4.158   1.00 97.75 ? 39 ARG A NH2 1 Q6MX43 UNP 39 R 
+ATOM 301 C CZ  . ARG A 1 39 ? 10.950  4.163   4.786   1.00 97.75 ? 39 ARG A CZ  1 Q6MX43 UNP 39 R 
+ATOM 302 N N   . VAL A 1 40 ? 6.627   -0.771  4.666   1.00 98.38 ? 40 VAL A N   1 Q6MX43 UNP 40 V 
+ATOM 303 C CA  . VAL A 1 40 ? 5.482   -0.344  5.478   1.00 98.38 ? 40 VAL A CA  1 Q6MX43 UNP 40 V 
+ATOM 304 C C   . VAL A 1 40 ? 5.816   0.981   6.157   1.00 98.38 ? 40 VAL A C   1 Q6MX43 UNP 40 V 
+ATOM 305 C CB  . VAL A 1 40 ? 5.092   -1.416  6.508   1.00 98.38 ? 40 VAL A CB  1 Q6MX43 UNP 40 V 
+ATOM 306 O O   . VAL A 1 40 ? 6.851   1.087   6.814   1.00 98.38 ? 40 VAL A O   1 Q6MX43 UNP 40 V 
+ATOM 307 C CG1 . VAL A 1 40 ? 3.868   -0.976  7.320   1.00 98.38 ? 40 VAL A CG1 1 Q6MX43 UNP 40 V 
+ATOM 308 C CG2 . VAL A 1 40 ? 4.777   -2.752  5.819   1.00 98.38 ? 40 VAL A CG2 1 Q6MX43 UNP 40 V 
+ATOM 309 N N   . ILE A 1 41 ? 4.944   1.974   5.988   1.00 98.25 ? 41 ILE A N   1 Q6MX43 UNP 41 I 
+ATOM 310 C CA  . ILE A 1 41 ? 5.027   3.271   6.671   1.00 98.25 ? 41 ILE A CA  1 Q6MX43 UNP 41 I 
+ATOM 311 C C   . ILE A 1 41 ? 4.090   3.286   7.873   1.00 98.25 ? 41 ILE A C   1 Q6MX43 UNP 41 I 
+ATOM 312 C CB  . ILE A 1 41 ? 4.724   4.421   5.683   1.00 98.25 ? 41 ILE A CB  1 Q6MX43 UNP 41 I 
+ATOM 313 O O   . ILE A 1 41 ? 4.514   3.576   8.987   1.00 98.25 ? 41 ILE A O   1 Q6MX43 UNP 41 I 
+ATOM 314 C CG1 . ILE A 1 41 ? 5.730   4.465   4.511   1.00 98.25 ? 41 ILE A CG1 1 Q6MX43 UNP 41 I 
+ATOM 315 C CG2 . ILE A 1 41 ? 4.677   5.782   6.400   1.00 98.25 ? 41 ILE A CG2 1 Q6MX43 UNP 41 I 
+ATOM 316 C CD1 . ILE A 1 41 ? 7.201   4.643   4.923   1.00 98.25 ? 41 ILE A CD1 1 Q6MX43 UNP 41 I 
+ATOM 317 N N   . GLU A 1 42 ? 2.828   2.930   7.650   1.00 98.38 ? 42 GLU A N   1 Q6MX43 UNP 42 E 
+ATOM 318 C CA  . GLU A 1 42 ? 1.799   2.882   8.685   1.00 98.38 ? 42 GLU A CA  1 Q6MX43 UNP 42 E 
+ATOM 319 C C   . GLU A 1 42 ? 0.739   1.835   8.336   1.00 98.38 ? 42 GLU A C   1 Q6MX43 UNP 42 E 
+ATOM 320 C CB  . GLU A 1 42 ? 1.178   4.273   8.940   1.00 98.38 ? 42 GLU A CB  1 Q6MX43 UNP 42 E 
+ATOM 321 O O   . GLU A 1 42 ? 0.491   1.520   7.166   1.00 98.38 ? 42 GLU A O   1 Q6MX43 UNP 42 E 
+ATOM 322 C CG  . GLU A 1 42 ? 0.604   4.928   7.676   1.00 98.38 ? 42 GLU A CG  1 Q6MX43 UNP 42 E 
+ATOM 323 C CD  . GLU A 1 42 ? 0.082   6.358   7.851   1.00 98.38 ? 42 GLU A CD  1 Q6MX43 UNP 42 E 
+ATOM 324 O OE1 . GLU A 1 42 ? -0.593  6.826   6.903   1.00 98.38 ? 42 GLU A OE1 1 Q6MX43 UNP 42 E 
+ATOM 325 O OE2 . GLU A 1 42 ? 0.478   7.030   8.827   1.00 98.38 ? 42 GLU A OE2 1 Q6MX43 UNP 42 E 
+ATOM 326 N N   . GLN A 1 43 ? 0.131   1.289   9.382   1.00 98.69 ? 43 GLN A N   1 Q6MX43 UNP 43 Q 
+ATOM 327 C CA  . GLN A 1 43 ? -0.990  0.364   9.319   1.00 98.69 ? 43 GLN A CA  1 Q6MX43 UNP 43 Q 
+ATOM 328 C C   . GLN A 1 43 ? -2.101  0.933   10.185  1.00 98.69 ? 43 GLN A C   1 Q6MX43 UNP 43 Q 
+ATOM 329 C CB  . GLN A 1 43 ? -0.579  -1.017  9.841   1.00 98.69 ? 43 GLN A CB  1 Q6MX43 UNP 43 Q 
+ATOM 330 O O   . GLN A 1 43 ? -1.865  1.306   11.334  1.00 98.69 ? 43 GLN A O   1 Q6MX43 UNP 43 Q 
+ATOM 331 C CG  . GLN A 1 43 ? 0.361   -1.748  8.879   1.00 98.69 ? 43 GLN A CG  1 Q6MX43 UNP 43 Q 
+ATOM 332 C CD  . GLN A 1 43 ? 0.844   -3.081  9.438   1.00 98.69 ? 43 GLN A CD  1 Q6MX43 UNP 43 Q 
+ATOM 333 N NE2 . GLN A 1 43 ? 1.920   -3.630  8.922   1.00 98.69 ? 43 GLN A NE2 1 Q6MX43 UNP 43 Q 
+ATOM 334 O OE1 . GLN A 1 43 ? 0.279   -3.671  10.338  1.00 98.69 ? 43 GLN A OE1 1 Q6MX43 UNP 43 Q 
+ATOM 335 N N   . ASP A 1 44 ? -3.306  0.987   9.638   1.00 98.50 ? 44 ASP A N   1 Q6MX43 UNP 44 D 
+ATOM 336 C CA  . ASP A 1 44 ? -4.482  1.418   10.375  1.00 98.50 ? 44 ASP A CA  1 Q6MX43 UNP 44 D 
+ATOM 337 C C   . ASP A 1 44 ? -5.725  0.643   9.918   1.00 98.50 ? 44 ASP A C   1 Q6MX43 UNP 44 D 
+ATOM 338 C CB  . ASP A 1 44 ? -4.613  2.953   10.305  1.00 98.50 ? 44 ASP A CB  1 Q6MX43 UNP 44 D 
+ATOM 339 O O   . ASP A 1 44 ? -5.660  -0.273  9.086   1.00 98.50 ? 44 ASP A O   1 Q6MX43 UNP 44 D 
+ATOM 340 C CG  . ASP A 1 44 ? -4.995  3.503   8.935   1.00 98.50 ? 44 ASP A CG  1 Q6MX43 UNP 44 D 
+ATOM 341 O OD1 . ASP A 1 44 ? -5.813  2.873   8.239   1.00 98.50 ? 44 ASP A OD1 1 Q6MX43 UNP 44 D 
+ATOM 342 O OD2 . ASP A 1 44 ? -4.647  4.653   8.606   1.00 98.50 ? 44 ASP A OD2 1 Q6MX43 UNP 44 D 
+ATOM 343 N N   . MET A 1 45 ? -6.861  0.959   10.533  1.00 98.38 ? 45 MET A N   1 Q6MX43 UNP 45 M 
+ATOM 344 C CA  . MET A 1 45 ? -8.140  0.322   10.258  1.00 98.38 ? 45 MET A CA  1 Q6MX43 UNP 45 M 
+ATOM 345 C C   . MET A 1 45 ? -9.209  1.403   10.153  1.00 98.38 ? 45 MET A C   1 Q6MX43 UNP 45 M 
+ATOM 346 C CB  . MET A 1 45 ? -8.472  -0.703  11.358  1.00 98.38 ? 45 MET A CB  1 Q6MX43 UNP 45 M 
+ATOM 347 O O   . MET A 1 45 ? -9.329  2.260   11.028  1.00 98.38 ? 45 MET A O   1 Q6MX43 UNP 45 M 
+ATOM 348 C CG  . MET A 1 45 ? -7.422  -1.823  11.435  1.00 98.38 ? 45 MET A CG  1 Q6MX43 UNP 45 M 
+ATOM 349 S SD  . MET A 1 45 ? -7.477  -2.859  12.920  1.00 98.38 ? 45 MET A SD  1 Q6MX43 UNP 45 M 
+ATOM 350 C CE  . MET A 1 45 ? -8.829  -3.953  12.491  1.00 98.38 ? 45 MET A CE  1 Q6MX43 UNP 45 M 
+ATOM 351 N N   . ALA A 1 46 ? -10.007 1.346   9.093   1.00 97.94 ? 46 ALA A N   1 Q6MX43 UNP 46 A 
+ATOM 352 C CA  . ALA A 1 46 ? -11.244 2.103   9.001   1.00 97.94 ? 46 ALA A CA  1 Q6MX43 UNP 46 A 
+ATOM 353 C C   . ALA A 1 46 ? -12.393 1.235   9.520   1.00 97.94 ? 46 ALA A C   1 Q6MX43 UNP 46 A 
+ATOM 354 C CB  . ALA A 1 46 ? -11.445 2.574   7.558   1.00 97.94 ? 46 ALA A CB  1 Q6MX43 UNP 46 A 
+ATOM 355 O O   . ALA A 1 46 ? -12.511 0.072   9.133   1.00 97.94 ? 46 ALA A O   1 Q6MX43 UNP 46 A 
+ATOM 356 N N   . VAL A 1 47 ? -13.235 1.802   10.382  1.00 98.00 ? 47 VAL A N   1 Q6MX43 UNP 47 V 
+ATOM 357 C CA  . VAL A 1 47 ? -14.430 1.141   10.917  1.00 98.00 ? 47 VAL A CA  1 Q6MX43 UNP 47 V 
+ATOM 358 C C   . VAL A 1 47 ? -15.646 1.933   10.464  1.00 98.00 ? 47 VAL A C   1 Q6MX43 UNP 47 V 
+ATOM 359 C CB  . VAL A 1 47 ? -14.376 1.005   12.451  1.00 98.00 ? 47 VAL A CB  1 Q6MX43 UNP 47 V 
+ATOM 360 O O   . VAL A 1 47 ? -15.706 3.143   10.691  1.00 98.00 ? 47 VAL A O   1 Q6MX43 UNP 47 V 
+ATOM 361 C CG1 . VAL A 1 47 ? -15.528 0.126   12.953  1.00 98.00 ? 47 VAL A CG1 1 Q6MX43 UNP 47 V 
+ATOM 362 C CG2 . VAL A 1 47 ? -13.058 0.370   12.917  1.00 98.00 ? 47 VAL A CG2 1 Q6MX43 UNP 47 V 
+ATOM 363 N N   . ASP A 1 48 ? -16.586 1.278   9.786   1.00 96.25 ? 48 ASP A N   1 Q6MX43 UNP 48 D 
+ATOM 364 C CA  . ASP A 1 48 ? -17.830 1.923   9.359   1.00 96.25 ? 48 ASP A CA  1 Q6MX43 UNP 48 D 
+ATOM 365 C C   . ASP A 1 48 ? -18.905 1.918   10.462  1.00 96.25 ? 48 ASP A C   1 Q6MX43 UNP 48 D 
+ATOM 366 C CB  . ASP A 1 48 ? -18.299 1.371   7.999   1.00 96.25 ? 48 ASP A CB  1 Q6MX43 UNP 48 D 
+ATOM 367 O O   . ASP A 1 48 ? -18.721 1.367   11.550  1.00 96.25 ? 48 ASP A O   1 Q6MX43 UNP 48 D 
+ATOM 368 C CG  . ASP A 1 48 ? -18.947 -0.016  8.008   1.00 96.25 ? 48 ASP A CG  1 Q6MX43 UNP 48 D 
+ATOM 369 O OD1 . ASP A 1 48 ? -19.298 -0.522  9.097   1.00 96.25 ? 48 ASP A OD1 1 Q6MX43 UNP 48 D 
+ATOM 370 O OD2 . ASP A 1 48 ? -19.135 -0.555  6.895   1.00 96.25 ? 48 ASP A OD2 1 Q6MX43 UNP 48 D 
+ATOM 371 N N   . SER A 1 49 ? -20.051 2.548   10.192  1.00 97.31 ? 49 SER A N   1 Q6MX43 UNP 49 S 
+ATOM 372 C CA  . SER A 1 49 ? -21.167 2.636   11.144  1.00 97.31 ? 49 SER A CA  1 Q6MX43 UNP 49 S 
+ATOM 373 C C   . SER A 1 49 ? -21.803 1.286   11.486  1.00 97.31 ? 49 SER A C   1 Q6MX43 UNP 49 S 
+ATOM 374 C CB  . SER A 1 49 ? -22.250 3.564   10.590  1.00 97.31 ? 49 SER A CB  1 Q6MX43 UNP 49 S 
+ATOM 375 O O   . SER A 1 49 ? -22.445 1.170   12.528  1.00 97.31 ? 49 SER A O   1 Q6MX43 UNP 49 S 
+ATOM 376 O OG  . SER A 1 49 ? -22.652 3.149   9.295   1.00 97.31 ? 49 SER A OG  1 Q6MX43 UNP 49 S 
+ATOM 377 N N   . ALA A 1 50 ? -21.627 0.272   10.637  1.00 97.38 ? 50 ALA A N   1 Q6MX43 UNP 50 A 
+ATOM 378 C CA  . ALA A 1 50 ? -22.069 -1.095  10.886  1.00 97.38 ? 50 ALA A CA  1 Q6MX43 UNP 50 A 
+ATOM 379 C C   . ALA A 1 50 ? -21.011 -1.920  11.646  1.00 97.38 ? 50 ALA A C   1 Q6MX43 UNP 50 A 
+ATOM 380 C CB  . ALA A 1 50 ? -22.462 -1.725  9.544   1.00 97.38 ? 50 ALA A CB  1 Q6MX43 UNP 50 A 
+ATOM 381 O O   . ALA A 1 50 ? -21.231 -3.101  11.915  1.00 97.38 ? 50 ALA A O   1 Q6MX43 UNP 50 A 
+ATOM 382 N N   . GLY A 1 51 ? -19.867 -1.319  11.992  1.00 96.38 ? 51 GLY A N   1 Q6MX43 UNP 51 G 
+ATOM 383 C CA  . GLY A 1 51 ? -18.752 -1.991  12.652  1.00 96.38 ? 51 GLY A CA  1 Q6MX43 UNP 51 G 
+ATOM 384 C C   . GLY A 1 51 ? -17.888 -2.824  11.704  1.00 96.38 ? 51 GLY A C   1 Q6MX43 UNP 51 G 
+ATOM 385 O O   . GLY A 1 51 ? -17.027 -3.571  12.172  1.00 96.38 ? 51 GLY A O   1 Q6MX43 UNP 51 G 
+ATOM 386 N N   . LYS A 1 52 ? -18.080 -2.724  10.381  1.00 97.44 ? 52 LYS A N   1 Q6MX43 UNP 52 K 
+ATOM 387 C CA  . LYS A 1 52 ? -17.229 -3.420  9.417   1.00 97.44 ? 52 LYS A CA  1 Q6MX43 UNP 52 K 
+ATOM 388 C C   . LYS A 1 52 ? -15.854 -2.770  9.399   1.00 97.44 ? 52 LYS A C   1 Q6MX43 UNP 52 K 
+ATOM 389 C CB  . LYS A 1 52 ? -17.857 -3.415  8.024   1.00 97.44 ? 52 LYS A CB  1 Q6MX43 UNP 52 K 
+ATOM 390 O O   . LYS A 1 52 ? -15.709 -1.556  9.262   1.00 97.44 ? 52 LYS A O   1 Q6MX43 UNP 52 K 
+ATOM 391 C CG  . LYS A 1 52 ? -17.050 -4.218  6.997   1.00 97.44 ? 52 LYS A CG  1 Q6MX43 UNP 52 K 
+ATOM 392 C CD  . LYS A 1 52 ? -17.696 -4.078  5.618   1.00 97.44 ? 52 LYS A CD  1 Q6MX43 UNP 52 K 
+ATOM 393 C CE  . LYS A 1 52 ? -16.822 -4.777  4.576   1.00 97.44 ? 52 LYS A CE  1 Q6MX43 UNP 52 K 
+ATOM 394 N NZ  . LYS A 1 52 ? -17.394 -4.610  3.221   1.00 97.44 ? 52 LYS A NZ  1 Q6MX43 UNP 52 K 
+ATOM 395 N N   . ILE A 1 53 ? -14.844 -3.622  9.480   1.00 98.06 ? 53 ILE A N   1 Q6MX43 UNP 53 I 
+ATOM 396 C CA  . ILE A 1 53 ? -13.441 -3.240  9.484   1.00 98.06 ? 53 ILE A CA  1 Q6MX43 UNP 53 I 
+ATOM 397 C C   . ILE A 1 53 ? -12.886 -3.313  8.060   1.00 98.06 ? 53 ILE A C   1 Q6MX43 UNP 53 I 
+ATOM 398 C CB  . ILE A 1 53 ? -12.695 -4.144  10.479  1.00 98.06 ? 53 ILE A CB  1 Q6MX43 UNP 53 I 
+ATOM 399 O O   . ILE A 1 53 ? -13.100 -4.287  7.339   1.00 98.06 ? 53 ILE A O   1 Q6MX43 UNP 53 I 
+ATOM 400 C CG1 . ILE A 1 53 ? -13.192 -3.864  11.921  1.00 98.06 ? 53 ILE A CG1 1 Q6MX43 UNP 53 I 
+ATOM 401 C CG2 . ILE A 1 53 ? -11.181 -3.963  10.357  1.00 98.06 ? 53 ILE A CG2 1 Q6MX43 UNP 53 I 
+ATOM 402 C CD1 . ILE A 1 53 ? -12.602 -4.781  12.999  1.00 98.06 ? 53 ILE A CD1 1 Q6MX43 UNP 53 I 
+ATOM 403 N N   . THR A 1 54 ? -12.141 -2.285  7.666   1.00 98.56 ? 54 THR A N   1 Q6MX43 UNP 54 T 
+ATOM 404 C CA  . THR A 1 54 ? -11.280 -2.287  6.482   1.00 98.56 ? 54 THR A CA  1 Q6MX43 UNP 54 T 
+ATOM 405 C C   . THR A 1 54 ? -9.851  -2.022  6.924   1.00 98.56 ? 54 THR A C   1 Q6MX43 UNP 54 T 
+ATOM 406 C CB  . THR A 1 54 ? -11.732 -1.235  5.464   1.00 98.56 ? 54 THR A CB  1 Q6MX43 UNP 54 T 
+ATOM 407 O O   . THR A 1 54 ? -9.547  -0.950  7.447   1.00 98.56 ? 54 THR A O   1 Q6MX43 UNP 54 T 
+ATOM 408 C CG2 . THR A 1 54 ? -10.903 -1.272  4.181   1.00 98.56 ? 54 THR A CG2 1 Q6MX43 UNP 54 T 
+ATOM 409 O OG1 . THR A 1 54 ? -13.075 -1.468  5.109   1.00 98.56 ? 54 THR A OG1 1 Q6MX43 UNP 54 T 
+ATOM 410 N N   . TYR A 1 55 ? -8.970  -2.987  6.698   1.00 98.75 ? 55 TYR A N   1 Q6MX43 UNP 55 Y 
+ATOM 411 C CA  . TYR A 1 55 ? -7.541  -2.857  6.944   1.00 98.75 ? 55 TYR A CA  1 Q6MX43 UNP 55 Y 
+ATOM 412 C C   . TYR A 1 55 ? -6.946  -1.950  5.878   1.00 98.75 ? 55 TYR A C   1 Q6MX43 UNP 55 Y 
+ATOM 413 C CB  . TYR A 1 55 ? -6.887  -4.244  6.907   1.00 98.75 ? 55 TYR A CB  1 Q6MX43 UNP 55 Y 
+ATOM 414 O O   . TYR A 1 55 ? -7.178  -2.175  4.688   1.00 98.75 ? 55 TYR A O   1 Q6MX43 UNP 55 Y 
+ATOM 415 C CG  . TYR A 1 55 ? -7.424  -5.175  7.972   1.00 98.75 ? 55 TYR A CG  1 Q6MX43 UNP 55 Y 
+ATOM 416 C CD1 . TYR A 1 55 ? -6.778  -5.251  9.218   1.00 98.75 ? 55 TYR A CD1 1 Q6MX43 UNP 55 Y 
+ATOM 417 C CD2 . TYR A 1 55 ? -8.586  -5.937  7.737   1.00 98.75 ? 55 TYR A CD2 1 Q6MX43 UNP 55 Y 
+ATOM 418 C CE1 . TYR A 1 55 ? -7.285  -6.084  10.230  1.00 98.75 ? 55 TYR A CE1 1 Q6MX43 UNP 55 Y 
+ATOM 419 C CE2 . TYR A 1 55 ? -9.115  -6.749  8.755   1.00 98.75 ? 55 TYR A CE2 1 Q6MX43 UNP 55 Y 
+ATOM 420 O OH  . TYR A 1 55 ? -8.985  -7.591  10.995  1.00 98.75 ? 55 TYR A OH  1 Q6MX43 UNP 55 Y 
+ATOM 421 C CZ  . TYR A 1 55 ? -8.467  -6.822  10.004  1.00 98.75 ? 55 TYR A CZ  1 Q6MX43 UNP 55 Y 
+ATOM 422 N N   . ARG A 1 56 ? -6.187  -0.932  6.282   1.00 98.62 ? 56 ARG A N   1 Q6MX43 UNP 56 R 
+ATOM 423 C CA  . ARG A 1 56 ? -5.452  -0.073  5.353   1.00 98.62 ? 56 ARG A CA  1 Q6MX43 UNP 56 R 
+ATOM 424 C C   . ARG A 1 56 ? -3.974  -0.100  5.697   1.00 98.62 ? 56 ARG A C   1 Q6MX43 UNP 56 R 
+ATOM 425 C CB  . ARG A 1 56 ? -5.988  1.364   5.311   1.00 98.62 ? 56 ARG A CB  1 Q6MX43 UNP 56 R 
+ATOM 426 O O   . ARG A 1 56 ? -3.589  -0.102  6.865   1.00 98.62 ? 56 ARG A O   1 Q6MX43 UNP 56 R 
+ATOM 427 C CG  . ARG A 1 56 ? -7.520  1.494   5.422   1.00 98.62 ? 56 ARG A CG  1 Q6MX43 UNP 56 R 
+ATOM 428 C CD  . ARG A 1 56 ? -7.977  2.944   5.229   1.00 98.62 ? 56 ARG A CD  1 Q6MX43 UNP 56 R 
+ATOM 429 N NE  . ARG A 1 56 ? -7.433  3.800   6.292   1.00 98.62 ? 56 ARG A NE  1 Q6MX43 UNP 56 R 
+ATOM 430 N NH1 . ARG A 1 56 ? -8.090  5.862   5.558   1.00 98.62 ? 56 ARG A NH1 1 Q6MX43 UNP 56 R 
+ATOM 431 N NH2 . ARG A 1 56 ? -6.836  5.688   7.388   1.00 98.62 ? 56 ARG A NH2 1 Q6MX43 UNP 56 R 
+ATOM 432 C CZ  . ARG A 1 56 ? -7.459  5.107   6.412   1.00 98.62 ? 56 ARG A CZ  1 Q6MX43 UNP 56 R 
+ATOM 433 N N   . ILE A 1 57 ? -3.144  -0.140  4.666   1.00 98.69 ? 57 ILE A N   1 Q6MX43 UNP 57 I 
+ATOM 434 C CA  . ILE A 1 57 ? -1.694  -0.120  4.813   1.00 98.69 ? 57 ILE A CA  1 Q6MX43 UNP 57 I 
+ATOM 435 C C   . ILE A 1 57 ? -1.094  0.876   3.840   1.00 98.69 ? 57 ILE A C   1 Q6MX43 UNP 57 I 
+ATOM 436 C CB  . ILE A 1 57 ? -1.096  -1.534  4.689   1.00 98.69 ? 57 ILE A CB  1 Q6MX43 UNP 57 I 
+ATOM 437 O O   . ILE A 1 57 ? -1.334  0.810   2.633   1.00 98.69 ? 57 ILE A O   1 Q6MX43 UNP 57 I 
+ATOM 438 C CG1 . ILE A 1 57 ? 0.396   -1.492  5.076   1.00 98.69 ? 57 ILE A CG1 1 Q6MX43 UNP 57 I 
+ATOM 439 C CG2 . ILE A 1 57 ? -1.305  -2.171  3.304   1.00 98.69 ? 57 ILE A CG2 1 Q6MX43 UNP 57 I 
+ATOM 440 C CD1 . ILE A 1 57 ? 1.002   -2.879  5.298   1.00 98.69 ? 57 ILE A CD1 1 Q6MX43 UNP 57 I 
+ATOM 441 N N   . LYS A 1 58 ? -0.300  1.797   4.376   1.00 98.56 ? 58 LYS A N   1 Q6MX43 UNP 58 K 
+ATOM 442 C CA  . LYS A 1 58 ? 0.485   2.732   3.585   1.00 98.56 ? 58 LYS A CA  1 Q6MX43 UNP 58 K 
+ATOM 443 C C   . LYS A 1 58 ? 1.869   2.142   3.351   1.00 98.56 ? 58 LYS A C   1 Q6MX43 UNP 58 K 
+ATOM 444 C CB  . LYS A 1 58 ? 0.534   4.071   4.309   1.00 98.56 ? 58 LYS A CB  1 Q6MX43 UNP 58 K 
+ATOM 445 O O   . LYS A 1 58 ? 2.585   1.801   4.296   1.00 98.56 ? 58 LYS A O   1 Q6MX43 UNP 58 K 
+ATOM 446 C CG  . LYS A 1 58 ? 1.159   5.160   3.440   1.00 98.56 ? 58 LYS A CG  1 Q6MX43 UNP 58 K 
+ATOM 447 C CD  . LYS A 1 58 ? 1.149   6.500   4.177   1.00 98.56 ? 58 LYS A CD  1 Q6MX43 UNP 58 K 
+ATOM 448 C CE  . LYS A 1 58 ? 1.826   7.492   3.246   1.00 98.56 ? 58 LYS A CE  1 Q6MX43 UNP 58 K 
+ATOM 449 N NZ  . LYS A 1 58 ? 2.147   8.782   3.883   1.00 98.56 ? 58 LYS A NZ  1 Q6MX43 UNP 58 K 
+ATOM 450 N N   . LEU A 1 59 ? 2.237   2.033   2.083   1.00 98.50 ? 59 LEU A N   1 Q6MX43 UNP 59 L 
+ATOM 451 C CA  . LEU A 1 59 ? 3.516   1.517   1.626   1.00 98.50 ? 59 LEU A CA  1 Q6MX43 UNP 59 L 
+ATOM 452 C C   . LEU A 1 59 ? 4.281   2.610   0.892   1.00 98.50 ? 59 LEU A C   1 Q6MX43 UNP 59 L 
+ATOM 453 C CB  . LEU A 1 59 ? 3.303   0.317   0.692   1.00 98.50 ? 59 LEU A CB  1 Q6MX43 UNP 59 L 
+ATOM 454 O O   . LEU A 1 59 ? 3.736   3.254   0.000   1.00 98.50 ? 59 LEU A O   1 Q6MX43 UNP 59 L 
+ATOM 455 C CG  . LEU A 1 59 ? 2.546   -0.877  1.292   1.00 98.50 ? 59 LEU A CG  1 Q6MX43 UNP 59 L 
+ATOM 456 C CD1 . LEU A 1 59 ? 2.340   -1.914  0.193   1.00 98.50 ? 59 LEU A CD1 1 Q6MX43 UNP 59 L 
+ATOM 457 C CD2 . LEU A 1 59 ? 3.321   -1.527  2.435   1.00 98.50 ? 59 LEU A CD2 1 Q6MX43 UNP 59 L 
+ATOM 458 N N   . GLU A 1 60 ? 5.558   2.755   1.203   1.00 98.00 ? 60 GLU A N   1 Q6MX43 UNP 60 E 
+ATOM 459 C CA  . GLU A 1 60 ? 6.499   3.477   0.358   1.00 98.00 ? 60 GLU A CA  1 Q6MX43 UNP 60 E 
+ATOM 460 C C   . GLU A 1 60 ? 7.102   2.489   -0.643  1.00 98.00 ? 60 GLU A C   1 Q6MX43 UNP 60 E 
+ATOM 461 C CB  . GLU A 1 60 ? 7.558   4.145   1.231   1.00 98.00 ? 60 GLU A CB  1 Q6MX43 UNP 60 E 
+ATOM 462 O O   . GLU A 1 60 ? 7.659   1.453   -0.264  1.00 98.00 ? 60 GLU A O   1 Q6MX43 UNP 60 E 
+ATOM 463 C CG  . GLU A 1 60 ? 8.547   4.982   0.419   1.00 98.00 ? 60 GLU A CG  1 Q6MX43 UNP 60 E 
+ATOM 464 C CD  . GLU A 1 60 ? 9.704   5.413   1.317   1.00 98.00 ? 60 GLU A CD  1 Q6MX43 UNP 60 E 
+ATOM 465 O OE1 . GLU A 1 60 ? 10.609  4.577   1.557   1.00 98.00 ? 60 GLU A OE1 1 Q6MX43 UNP 60 E 
+ATOM 466 O OE2 . GLU A 1 60 ? 9.692   6.523   1.886   1.00 98.00 ? 60 GLU A OE2 1 Q6MX43 UNP 60 E 
+ATOM 467 N N   . VAL A 1 61 ? 6.988   2.795   -1.931  1.00 96.31 ? 61 VAL A N   1 Q6MX43 UNP 61 V 
+ATOM 468 C CA  . VAL A 1 61 ? 7.548   1.984   -3.014  1.00 96.31 ? 61 VAL A CA  1 Q6MX43 UNP 61 V 
+ATOM 469 C C   . VAL A 1 61 ? 8.503   2.819   -3.846  1.00 96.31 ? 61 VAL A C   1 Q6MX43 UNP 61 V 
+ATOM 470 C CB  . VAL A 1 61 ? 6.467   1.314   -3.885  1.00 96.31 ? 61 VAL A CB  1 Q6MX43 UNP 61 V 
+ATOM 471 O O   . VAL A 1 61 ? 8.247   3.987   -4.143  1.00 96.31 ? 61 VAL A O   1 Q6MX43 UNP 61 V 
+ATOM 472 C CG1 . VAL A 1 61 ? 5.604   0.365   -3.050  1.00 96.31 ? 61 VAL A CG1 1 Q6MX43 UNP 61 V 
+ATOM 473 C CG2 . VAL A 1 61 ? 5.540   2.299   -4.604  1.00 96.31 ? 61 VAL A CG2 1 Q6MX43 UNP 61 V 
+ATOM 474 N N   . SER A 1 62 ? 9.602   2.197   -4.261  1.00 94.62 ? 62 SER A N   1 Q6MX43 UNP 62 S 
+ATOM 475 C CA  . SER A 1 62 ? 10.514  2.769   -5.246  1.00 94.62 ? 62 SER A CA  1 Q6MX43 UNP 62 S 
+ATOM 476 C C   . SER A 1 62 ? 10.425  1.995   -6.554  1.00 94.62 ? 62 SER A C   1 Q6MX43 UNP 62 S 
+ATOM 477 C CB  . SER A 1 62 ? 11.945  2.857   -4.713  1.00 94.62 ? 62 SER A CB  1 Q6MX43 UNP 62 S 
+ATOM 478 O O   . SER A 1 62 ? 10.314  0.768   -6.562  1.00 94.62 ? 62 SER A O   1 Q6MX43 UNP 62 S 
+ATOM 479 O OG  . SER A 1 62 ? 12.464  1.584   -4.394  1.00 94.62 ? 62 SER A OG  1 Q6MX43 UNP 62 S 
+ATOM 480 N N   . PHE A 1 63 ? 10.450  2.724   -7.663  1.00 93.69 ? 63 PHE A N   1 Q6MX43 UNP 63 F 
+ATOM 481 C CA  . PHE A 1 63 ? 10.410  2.160   -9.008  1.00 93.69 ? 63 PHE A CA  1 Q6MX43 UNP 63 F 
+ATOM 482 C C   . PHE A 1 63 ? 11.236  3.009   -9.964  1.00 93.69 ? 63 PHE A C   1 Q6MX43 UNP 63 F 
+ATOM 483 C CB  . PHE A 1 63 ? 8.963   2.043   -9.492  1.00 93.69 ? 63 PHE A CB  1 Q6MX43 UNP 63 F 
+ATOM 484 O O   . PHE A 1 63 ? 11.469  4.204   -9.738  1.00 93.69 ? 63 PHE A O   1 Q6MX43 UNP 63 F 
+ATOM 485 C CG  . PHE A 1 63 ? 8.203   3.347   -9.537  1.00 93.69 ? 63 PHE A CG  1 Q6MX43 UNP 63 F 
+ATOM 486 C CD1 . PHE A 1 63 ? 7.489   3.772   -8.406  1.00 93.69 ? 63 PHE A CD1 1 Q6MX43 UNP 63 F 
+ATOM 487 C CD2 . PHE A 1 63 ? 8.194   4.128   -10.708 1.00 93.69 ? 63 PHE A CD2 1 Q6MX43 UNP 63 F 
+ATOM 488 C CE1 . PHE A 1 63 ? 6.754   4.962   -8.461  1.00 93.69 ? 63 PHE A CE1 1 Q6MX43 UNP 63 F 
+ATOM 489 C CE2 . PHE A 1 63 ? 7.452   5.320   -10.758 1.00 93.69 ? 63 PHE A CE2 1 Q6MX43 UNP 63 F 
+ATOM 490 C CZ  . PHE A 1 63 ? 6.713   5.727   -9.635  1.00 93.69 ? 63 PHE A CZ  1 Q6MX43 UNP 63 F 
+ATOM 491 N N   . LYS A 1 64 ? 11.707  2.392   -11.044 1.00 90.62 ? 64 LYS A N   1 Q6MX43 UNP 64 K 
+ATOM 492 C CA  . LYS A 1 64 ? 12.540  3.078   -12.029 1.00 90.62 ? 64 LYS A CA  1 Q6MX43 UNP 64 K 
+ATOM 493 C C   . LYS A 1 64 ? 11.694  4.087   -12.804 1.00 90.62 ? 64 LYS A C   1 Q6MX43 UNP 64 K 
+ATOM 494 C CB  . LYS A 1 64 ? 13.189  2.021   -12.921 1.00 90.62 ? 64 LYS A CB  1 Q6MX43 UNP 64 K 
+ATOM 495 O O   . LYS A 1 64 ? 10.614  3.758   -13.292 1.00 90.62 ? 64 LYS A O   1 Q6MX43 UNP 64 K 
+ATOM 496 C CG  . LYS A 1 64 ? 14.245  2.620   -13.852 1.00 90.62 ? 64 LYS A CG  1 Q6MX43 UNP 64 K 
+ATOM 497 C CD  . LYS A 1 64 ? 14.906  1.477   -14.622 1.00 90.62 ? 64 LYS A CD  1 Q6MX43 UNP 64 K 
+ATOM 498 C CE  . LYS A 1 64 ? 15.993  2.009   -15.553 1.00 90.62 ? 64 LYS A CE  1 Q6MX43 UNP 64 K 
+ATOM 499 N NZ  . LYS A 1 64 ? 16.607  0.886   -16.299 1.00 90.62 ? 64 LYS A NZ  1 Q6MX43 UNP 64 K 
+ATOM 500 N N   . MET A 1 65 ? 12.174  5.322   -12.949 1.00 86.62 ? 65 MET A N   1 Q6MX43 UNP 65 M 
+ATOM 501 C CA  . MET A 1 65 ? 11.473  6.293   -13.791 1.00 86.62 ? 65 MET A CA  1 Q6MX43 UNP 65 M 
+ATOM 502 C C   . MET A 1 65 ? 11.495  5.838   -15.252 1.00 86.62 ? 65 MET A C   1 Q6MX43 UNP 65 M 
+ATOM 503 C CB  . MET A 1 65 ? 12.065  7.702   -13.655 1.00 86.62 ? 65 MET A CB  1 Q6MX43 UNP 65 M 
+ATOM 504 O O   . MET A 1 65 ? 12.564  5.603   -15.822 1.00 86.62 ? 65 MET A O   1 Q6MX43 UNP 65 M 
+ATOM 505 C CG  . MET A 1 65 ? 11.557  8.398   -12.390 1.00 86.62 ? 65 MET A CG  1 Q6MX43 UNP 65 M 
+ATOM 506 S SD  . MET A 1 65 ? 12.017  10.146  -12.227 1.00 86.62 ? 65 MET A SD  1 Q6MX43 UNP 65 M 
+ATOM 507 C CE  . MET A 1 65 ? 11.206  10.882  -13.675 1.00 86.62 ? 65 MET A CE  1 Q6MX43 UNP 65 M 
+ATOM 508 N N   . ARG A 1 66 ? 10.310  5.755   -15.872 1.00 81.31 ? 66 ARG A N   1 Q6MX43 UNP 66 R 
+ATOM 509 C CA  . ARG A 1 66 ? 10.202  5.622   -17.328 1.00 81.31 ? 66 ARG A CA  1 Q6MX43 UNP 66 R 
+ATOM 510 C C   . ARG A 1 66 ? 10.778  6.886   -17.987 1.00 81.31 ? 66 ARG A C   1 Q6MX43 UNP 66 R 
+ATOM 511 C CB  . ARG A 1 66 ? 8.748   5.347   -17.767 1.00 81.31 ? 66 ARG A CB  1 Q6MX43 UNP 66 R 
+ATOM 512 O O   . ARG A 1 66 ? 10.585  7.979   -17.444 1.00 81.31 ? 66 ARG A O   1 Q6MX43 UNP 66 R 
+ATOM 513 C CG  . ARG A 1 66 ? 8.308   3.916   -17.400 1.00 81.31 ? 66 ARG A CG  1 Q6MX43 UNP 66 R 
+ATOM 514 C CD  . ARG A 1 66 ? 6.971   3.491   -18.034 1.00 81.31 ? 66 ARG A CD  1 Q6MX43 UNP 66 R 
+ATOM 515 N NE  . ARG A 1 66 ? 5.786   3.839   -17.216 1.00 81.31 ? 66 ARG A NE  1 Q6MX43 UNP 66 R 
+ATOM 516 N NH1 . ARG A 1 66 ? 4.342   4.424   -18.915 1.00 81.31 ? 66 ARG A NH1 1 Q6MX43 UNP 66 R 
+ATOM 517 N NH2 . ARG A 1 66 ? 3.573   4.230   -16.840 1.00 81.31 ? 66 ARG A NH2 1 Q6MX43 UNP 66 R 
+ATOM 518 C CZ  . ARG A 1 66 ? 4.583   4.167   -17.659 1.00 81.31 ? 66 ARG A CZ  1 Q6MX43 UNP 66 R 
+ATOM 519 N N   . PRO A 1 67 ? 11.465  6.774   -19.139 1.00 75.75 ? 67 PRO A N   1 Q6MX43 UNP 67 P 
+ATOM 520 C CA  . PRO A 1 67 ? 11.761  7.941   -19.962 1.00 75.75 ? 67 PRO A CA  1 Q6MX43 UNP 67 P 
+ATOM 521 C C   . PRO A 1 67 ? 10.450  8.684   -20.227 1.00 75.75 ? 67 PRO A C   1 Q6MX43 UNP 67 P 
+ATOM 522 C CB  . PRO A 1 67 ? 12.380  7.409   -21.261 1.00 75.75 ? 67 PRO A CB  1 Q6MX43 UNP 67 P 
+ATOM 523 O O   . PRO A 1 67 ? 9.433   8.036   -20.484 1.00 75.75 ? 67 PRO A O   1 Q6MX43 UNP 67 P 
+ATOM 524 C CG  . PRO A 1 67 ? 12.802  5.979   -20.923 1.00 75.75 ? 67 PRO A CG  1 Q6MX43 UNP 67 P 
+ATOM 525 C CD  . PRO A 1 67 ? 11.821  5.552   -19.836 1.00 75.75 ? 67 PRO A CD  1 Q6MX43 UNP 67 P 
+ATOM 526 N N   . ALA A 1 68 ? 10.450  10.017  -20.137 1.00 70.12 ? 68 ALA A N   1 Q6MX43 UNP 68 A 
+ATOM 527 C CA  . ALA A 1 68 ? 9.283   10.794  -20.534 1.00 70.12 ? 68 ALA A CA  1 Q6MX43 UNP 68 A 
+ATOM 528 C C   . ALA A 1 68 ? 8.930   10.398  -21.973 1.00 70.12 ? 68 ALA A C   1 Q6MX43 UNP 68 A 
+ATOM 529 C CB  . ALA A 1 68 ? 9.590   12.291  -20.398 1.00 70.12 ? 68 ALA A CB  1 Q6MX43 UNP 68 A 
+ATOM 530 O O   . ALA A 1 68 ? 9.754   10.558  -22.873 1.00 70.12 ? 68 ALA A O   1 Q6MX43 UNP 68 A 
+ATOM 531 N N   . GLN A 1 69 ? 7.750   9.812   -22.176 1.00 65.62 ? 69 GLN A N   1 Q6MX43 UNP 69 Q 
+ATOM 532 C CA  . GLN A 1 69 ? 7.293   9.496   -23.521 1.00 65.62 ? 69 GLN A CA  1 Q6MX43 UNP 69 Q 
+ATOM 533 C C   . GLN A 1 69 ? 7.127   10.841  -24.248 1.00 65.62 ? 69 GLN A C   1 Q6MX43 UNP 69 Q 
+ATOM 534 C CB  . GLN A 1 69 ? 6.004   8.661   -23.440 1.00 65.62 ? 69 GLN A CB  1 Q6MX43 UNP 69 Q 
+ATOM 535 O O   . GLN A 1 69 ? 6.457   11.722  -23.693 1.00 65.62 ? 69 GLN A O   1 Q6MX43 UNP 69 Q 
+ATOM 536 C CG  . GLN A 1 69 ? 5.718   7.872   -24.728 1.00 65.62 ? 69 GLN A CG  1 Q6MX43 UNP 69 Q 
+ATOM 537 C CD  . GLN A 1 69 ? 4.616   6.828   -24.538 1.00 65.62 ? 69 GLN A CD  1 Q6MX43 UNP 69 Q 
+ATOM 538 N NE2 . GLN A 1 69 ? 4.544   5.828   -25.389 1.00 65.62 ? 69 GLN A NE2 1 Q6MX43 UNP 69 Q 
+ATOM 539 O OE1 . GLN A 1 69 ? 3.824   6.859   -23.610 1.00 65.62 ? 69 GLN A OE1 1 Q6MX43 UNP 69 Q 
+ATOM 540 N N   . PRO A 1 70 ? 7.767   11.061  -25.413 1.00 61.59 ? 70 PRO A N   1 Q6MX43 UNP 70 P 
+ATOM 541 C CA  . PRO A 1 70 ? 7.495   12.250  -26.208 1.00 61.59 ? 70 PRO A CA  1 Q6MX43 UNP 70 P 
+ATOM 542 C C   . PRO A 1 70 ? 5.989   12.297  -26.481 1.00 61.59 ? 70 PRO A C   1 Q6MX43 UNP 70 P 
+ATOM 543 C CB  . PRO A 1 70 ? 8.321   12.115  -27.493 1.00 61.59 ? 70 PRO A CB  1 Q6MX43 UNP 70 P 
+ATOM 544 O O   . PRO A 1 70 ? 5.409   11.264  -26.821 1.00 61.59 ? 70 PRO A O   1 Q6MX43 UNP 70 P 
+ATOM 545 C CG  . PRO A 1 70 ? 9.381   11.071  -27.143 1.00 61.59 ? 70 PRO A CG  1 Q6MX43 UNP 70 P 
+ATOM 546 C CD  . PRO A 1 70 ? 8.693   10.185  -26.108 1.00 61.59 ? 70 PRO A CD  1 Q6MX43 UNP 70 P 
+ATOM 547 N N   . ARG A 1 71 ? 5.369   13.454  -26.231 1.00 58.38 ? 71 ARG A N   1 Q6MX43 UNP 71 R 
+ATOM 548 C CA  . ARG A 1 71 ? 3.948   13.680  -26.523 1.00 58.38 ? 71 ARG A CA  1 Q6MX43 UNP 71 R 
+ATOM 549 C C   . ARG A 1 71 ? 3.669   13.584  -28.014 1.00 58.38 ? 71 ARG A C   1 Q6MX43 UNP 71 R 
+ATOM 550 C CB  . ARG A 1 71 ? 3.479   15.049  -26.018 1.00 58.38 ? 71 ARG A CB  1 Q6MX43 UNP 71 R 
+ATOM 551 O O   . ARG A 1 71 ? 4.545   14.029  -28.787 1.00 58.38 ? 71 ARG A O   1 Q6MX43 UNP 71 R 
+ATOM 552 C CG  . ARG A 1 71 ? 3.162   15.058  -24.523 1.00 58.38 ? 71 ARG A CG  1 Q6MX43 UNP 71 R 
+ATOM 553 C CD  . ARG A 1 71 ? 2.518   16.406  -24.181 1.00 58.38 ? 71 ARG A CD  1 Q6MX43 UNP 71 R 
+ATOM 554 N NE  . ARG A 1 71 ? 2.098   16.483  -22.772 1.00 58.38 ? 71 ARG A NE  1 Q6MX43 UNP 71 R 
+ATOM 555 N NH1 . ARG A 1 71 ? 1.301   18.631  -22.851 1.00 58.38 ? 71 ARG A NH1 1 Q6MX43 UNP 71 R 
+ATOM 556 N NH2 . ARG A 1 71 ? 1.184   17.481  -20.944 1.00 58.38 ? 71 ARG A NH2 1 Q6MX43 UNP 71 R 
+ATOM 557 C CZ  . ARG A 1 71 ? 1.533   17.527  -22.198 1.00 58.38 ? 71 ARG A CZ  1 Q6MX43 UNP 71 R 
+ATOM 558 O OXT . ARG A 1 71 ? 2.535   13.155  -28.297 1.00 58.38 ? 71 ARG A OXT 1 Q6MX43 UNP 71 R 
+#
